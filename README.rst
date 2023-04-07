@@ -1,7 +1,7 @@
 Mostly combining a few packs:
 
 * `Armoured Elytra <https://www.planetminecraft.com/texture-pack/armoured-elytra-resource-pack-for-vanillatweaks-datapack/>`_
-* `Minimal Armour <https://www.planetminecraft.com/texture-pack/minimal-armor/>`_
+* `Minimal Armour <https://modrinth.com/resourcepack/hoffens-minimal-armor>`_
 * `Prosperity Resource Pack <https://github.com/ProsperityMC/Prosperity-Resource-Pack>`_ (Totems only)
   FIXME: I'd like the hats/pumpkins, but it wasn't working without Optifine
 * `Fancy Beds <https://modrinth.com/resourcepack/fancy-beds>`_
