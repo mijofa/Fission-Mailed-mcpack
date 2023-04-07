@@ -6,15 +6,7 @@ Mostly combining a few packs:
   FIXME: I'd like the hats/pumpkins, but it wasn't working without Optifine
 * `Fancy Beds <https://modrinth.com/resourcepack/fancy-beds>`_
 
-Along with some hacks to allow me to flex some `Visual Enchantments
-<https://github.com/CiscuLog/Visual-Enchantments>`_ using CustomModelData
-without making other players/friends install Optifine/CITResewn
-
-I'd love to include a datapack that somehow automatically adds the
-CustomModelData according to the enchants on the item, even if only after
-dropping the item on a smithing table or something.
-I don't really know what I'm doing with making my own datapacks though,
-and what I have investigated they don't seem very server resource efficient.
+Along with some hacks to allow me to flex some `Visual Enchantments <https://github.com/CiscuLog/Visual-Enchantments>`_ using CustomModelData without making other players/friends install Optifine/CITResewn
 
 Custom totems
 -------------
@@ -72,6 +64,9 @@ Totem of Undying      6453001   .. image:: assets/minecraft/textures/item/totem_
 Visually Enchanted tools
 ------------------------
 Longer term I'd love to have a datapack that automatically applies custom model data according to a bitmask of applied enchantments.
+Might require the player to drop the item on a smithing table or something to apply that data instead of as it's being enchanted.
+I don't really know what about making my own datapacks though, and what I have investigated they don't seem very server resource efficient.
+
 For now though I'm just manually creating custom model definitions for each of my own tools as I decide to update the pack.
 This is the table of those IDs, but I'm not including a thumbnail because I CBFed generating those layered images.
 
@@ -92,6 +87,14 @@ Diamond Sword         6453001   * Knockback
                                 * Sweeping Edge
                                 * Unbreaking
 ====================  ========  ======================================================================================
+
+Visually Enchanted Books
+------------------------
+Not implemented yet
+
+I intend to manually set up a set of custom model data IDs for each visually enchanted book.
+Mostly just to make a villager trading hall look a bit better, which fancy looking books above each trading module.
+Even though it will have zero impact on the look of the books being sold, it can still be used to visualise what they will sell.
 
 Armoured Elytra
 ---------------
