@@ -1,0 +1,16 @@
+{
+	"credit": "Made by SweatyYeti",
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/elytra"
+    },
+    "overrides": [
+        {"predicate": {"broken": 1}, "model": "item/broken_elytra"},
+		{"predicate": {"custom_model_data": 13522551}, "model": "item/custom/leather_elytra"},
+		{"predicate": {"custom_model_data": 13522552}, "model": "item/custom/chainmail_elytra"},
+		{"predicate": {"custom_model_data": 13522553}, "model": "item/custom/golden_elytra"},
+		{"predicate": {"custom_model_data": 13522554}, "model": "item/custom/iron_elytra"},
+		{"predicate": {"custom_model_data": 13522555}, "model": "item/custom/diamond_elytra"},
+		{"predicate": {"custom_model_data": 13522556}, "model": "item/custom/netherite_elytra"}
+    ]
+}
