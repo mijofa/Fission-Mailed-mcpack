@@ -1,4 +1,4 @@
-RESOURCES := $(shell find assets/minecraft/textures/ assets/minecraft/models/ -print)
+RESOURCES := $(shell find assets/minecraft/textures/ assets/minecraft/models/ -not -iname '*~' -print)
 Fission-Mailed-mcpack.zip: pack.mcmeta pack.png README.rst $(RESOURCES)
 	rm $@ || true
 	zip -r $@ $^
