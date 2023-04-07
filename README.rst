@@ -2,11 +2,14 @@ Mostly combining a few packs:
 
 * `Armoured Elytra <https://www.planetminecraft.com/texture-pack/armoured-elytra-resource-pack-for-vanillatweaks-datapack/>`_
 * `Minimal Armour <https://www.planetminecraft.com/texture-pack/minimal-armor/>`_
+  FIXME: 1.20 will bring in armour trims, which will likely make this one a mess. If possible simply don't apply it to trimmed armour, since you want to show off the armour at that point, rather than your player skin
 * `Prosperity Resource Pack <https://github.com/ProsperityMC/Prosperity-Resource-Pack>`_ (Totems only)
   FIXME: I'd like the hats/pumpkins, but it wasn't working without Optifine
 * `Fancy Beds <https://modrinth.com/resourcepack/fancy-beds>`_
 
 Along with some hacks to allow me to flex some `Visual Enchantments <https://github.com/CiscuLog/Visual-Enchantments>`_ using CustomModelData without making other players/friends install Optifine/CITResewn
+
+You can apply these textures using the `Custom Roleplay Data <https://www.curseforge.com/minecraft/customization/custom-roleplay-data-datapack>`_ datapack (installed on Fission Mailed server) by holding the associated item in your main hand, then putting ``/trigger CustomModelData set <ID>`` with the custom model ID in the chat
 
 Custom totems
 -------------
@@ -63,12 +66,17 @@ Totem of Undying      6453001   .. image:: assets/minecraft/textures/item/totem_
 
 Visually Enchanted tools
 ------------------------
-Longer term I'd love to have a datapack that automatically applies custom model data according to a bitmask of applied enchantments.
-Might require the player to drop the item on a smithing table or something to apply that data instead of as it's being enchanted.
-I don't really know what about making my own datapacks though, and what I have investigated they don't seem very server resource efficient.
+These are based on CiscuLog's `Visual Enchantments <https://github.com/CiscuLog/Visual-Enchantments>`_ pack, which otherwise depends on Optifine/CITResewn
 
-For now though I'm just manually creating custom model definitions for each of my own tools as I decide to update the pack.
-This is the table of those IDs, but I'm not including a thumbnail because I CBFed generating those layered images.
+Longer term I'd love to have a datapack that automatically applies custom model data according to a bitmask of applied enchantments.
+Might require the player to drop the item on a smithing table or something to apply that data rather than as part of the crafting recipes.
+I don't really know about making my own datapacks though, and what I have investigated they don't seem very server resource efficient.
+
+For now I'm just manually creating custom model definitions for each of my own tools as I decide to update the pack.
+This is the table of those IDs, without thumbnails because I CBFed generating those layered images.
+
+I'm happy to add more on request, just tell me the tool and the list of enchantments (the level is irrelevant) and I'll update the pack.
+The IDs might change at a future date, although mijofa has personally registered the #645xxxx prefix at the unofficial `Minecraft Datapacks <https://mcdatapack.vercel.app/>`_, so the prefix shouldn't change, and hopefully won't conflict with others.
 
 ====================  ========  ======================================================================================
 Item                  ID        Enchantments
@@ -90,11 +98,11 @@ Diamond Sword         6453001   * Knockback
 
 Visually Enchanted Books
 ------------------------
-Not implemented yet
+This is mostly just to make villager trading halls look a bit better,
+by putting fancy looking books above each trading module to indicate what they're selling.
 
-I intend to manually set up a set of custom model data IDs for each visually enchanted book.
-Mostly just to make a villager trading hall look a bit better, which fancy looking books above each trading module.
-Even though it will have zero impact on the look of the books being sold, it can still be used to visualise what they will sell.
+It will have zero impact on the look of the books being sold,
+but it does make it much easier to keep track of which villager is which.
 
 ======================  ========  ======================================================================================
 Enchantment             ID        Icon
