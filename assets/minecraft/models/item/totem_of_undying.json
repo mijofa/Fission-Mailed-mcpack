@@ -81,6 +81,18 @@
         "custom_model_data": 945612
       },
       "model": "item/totem_of_undying/soul_totem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6453000
+      },
+      "model": "item/totem_of_undying/6453000"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6453001
+      },
+      "model": "item/totem_of_undying/6453001"
     }
   ]
 }
