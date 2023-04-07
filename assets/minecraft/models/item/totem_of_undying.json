@@ -1,0 +1,86 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/totem_of_undying"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 94560
+      },
+      "model": "item/totem_of_undying/axolotl_of_undying"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 94561
+      },
+      "model": "item/totem_of_undying/book_of_undying"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 94562
+      },
+      "model": "item/totem_of_undying/carbon_totem_0"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 94563
+      },
+      "model": "item/totem_of_undying/carbon_totem_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 94564
+      },
+      "model": "item/totem_of_undying/diamond_netherite_totem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 94565
+      },
+      "model": "item/totem_of_undying/gold_netherite_totem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 94566
+      },
+      "model": "item/totem_of_undying/fancy_totem_of_undying"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 94567
+      },
+      "model": "item/totem_of_undying/flower_of_undying"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 94568
+      },
+      "model": "item/totem_of_undying/potion_of_undying"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 94569
+      },
+      "model": "item/totem_of_undying/retro_totem_of_undying"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 945610
+      },
+      "model": "item/totem_of_undying/small_totem_of_undying"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 945611
+      },
+      "model": "item/totem_of_undying/totem_of_redstone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 945612
+      },
+      "model": "item/totem_of_undying/soul_totem"
+    }
+  ]
+}
