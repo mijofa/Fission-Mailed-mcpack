@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/axe",
+  "textures": {
+	"base": "item/diamond_axe"
+  },
+  "overrides": [
+	{ "predicate": { "custom_model_data": 6453001}, "model": "item/axes/diamond_axe_efficiency_unbreaking" }
+  ]
+}

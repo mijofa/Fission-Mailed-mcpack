@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/shovel",
+  "textures": {
+	"base": "item/diamond_shovel"
+  },
+  "overrides": [
+	{ "predicate": { "custom_model_data": 6453001}, "model": "item/shovels/diamond_shovel_efficiency_unbreaking" }
+  ]
+}

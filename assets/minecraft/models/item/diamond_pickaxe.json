@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:item/pickaxe",
+	"textures": {
+		"base": "item/diamond_pickaxe"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 6453001}, "model": "item/pickaxes/diamond_pickaxe_unbreaking_silk" }
+	]
+}
