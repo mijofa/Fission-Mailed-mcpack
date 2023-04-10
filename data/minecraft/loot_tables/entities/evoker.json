@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "vanilla:entities/evoker"
+          "name": "mijofa:entities/evoker_with_customtotems"
         }
       ]
     },
