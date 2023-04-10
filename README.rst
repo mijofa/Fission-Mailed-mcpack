@@ -8,8 +8,16 @@ Mostly combining a few packs:
 
 Along with some hacks to allow me to flex some `Visual Enchantments <https://github.com/CiscuLog/Visual-Enchantments>`_ using CustomModelData without making other players/friends install Optifine/CITResewn
 
+You can apply these textures using the `Custom Roleplay Data <https://www.curseforge.com/minecraft/customization/custom-roleplay-data-datapack>`_ datapack (installed on Fission Mailed server) by holding the associated item in your main hand, then putting ``/trigger CustomModelData set <ID>`` with the custom model ID in the chat
+.. FIXME: That datapack is simple enough and could be even simpler, combine it into this repo's datapack?
+
 Custom totems
 -------------
+
+The server/world datapack changes the Evoker loot table so that you have an equal chance of getting any 1 of them.
+
+Except the player/user specific ones at the end of the table,
+since they're really only meant for the user they are made to look like.
 
 ====================  ========  ======================================================================================
 Item                  ID        Icon
@@ -64,7 +72,7 @@ Totem of Undying      6453001   .. image:: assets/minecraft/textures/item/totem_
 Armoured Elytra
 ---------------
 These IDs are automatically added by Armoured Elytra from `Vanilla Tweaks <https://vanillatweaks.net/picker/datapacks/>`_.
-It won't affect the worn model, only the held item (Minecraft doesn't natively support custom model data on clothing)
+It won't affect the worn model, only the held item (Minecraft doesn't natively support custom model data on worn clothing)
 
 ====================  ========  ======================================================================================
 Item                  ID        Icon
