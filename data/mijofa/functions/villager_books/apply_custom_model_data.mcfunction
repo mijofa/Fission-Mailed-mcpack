@@ -1,4 +1,3 @@
-
 # 6453001	Aqua Affinity
 data modify entity @s Offers{}.Recipes[].sell{id:"minecraft:enchanted_book",tag:{StoredEnchantments:[{id:"minecraft:aqua_affinity"}]}}.tag.CustomModelData set value 6453001
 # 6453002	Bane of Arthropods
