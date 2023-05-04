@@ -11,7 +11,7 @@ Python sort key function for the below::
 
 Creating the item files themselves (Python used because I couldn't do the binary2decimal conversion in Bash)::
 
-    for material in ['wooden','stone','iron','gold','diamond','netherite']:
+    for material in ['wooden','stone','iron','golden','diamond','netherite']:
       for item in ['axe','pickaxe','shovel','sword','hoe']:
         data = {"parent": f"minecraft:item/{item}","textures":{"base":f"item/{material}_{item}"}}
         data['overrides'] = [{"predicate": {"custom_model_data": 6450000 + int(p.name.split('.')[0], 2)}, "model": 'item/'+str(p)[:-5]} for p in pathlib.Path('.').glob(f'*/{material}_{item}/0b*.json')]

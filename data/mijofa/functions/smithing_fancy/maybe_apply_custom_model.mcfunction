@@ -19,11 +19,11 @@ execute if entity @s[nbt={Item:{id:"minecraft:iron_shovel"}}] run function mijof
 execute if entity @s[nbt={Item:{id:"minecraft:iron_sword"}}] run function mijofa:smithing_fancy/sword
 execute if entity @s[nbt={Item:{id:"minecraft:iron_hoe"}}] run function mijofa:smithing_fancy/hoe
 
-execute if entity @s[nbt={Item:{id:"minecraft:gold_axe"}}] run function mijofa:smithing_fancy/axe
-execute if entity @s[nbt={Item:{id:"minecraft:gold_pickaxe"}}] run function mijofa:smithing_fancy/pickaxe
-execute if entity @s[nbt={Item:{id:"minecraft:gold_shovel"}}] run function mijofa:smithing_fancy/shovel
-execute if entity @s[nbt={Item:{id:"minecraft:gold_sword"}}] run function mijofa:smithing_fancy/sword
-execute if entity @s[nbt={Item:{id:"minecraft:gold_hoe"}}] run function mijofa:smithing_fancy/hoe
+execute if entity @s[nbt={Item:{id:"minecraft:golden_axe"}}] run function mijofa:smithing_fancy/axe
+execute if entity @s[nbt={Item:{id:"minecraft:golden_pickaxe"}}] run function mijofa:smithing_fancy/pickaxe
+execute if entity @s[nbt={Item:{id:"minecraft:golden_shovel"}}] run function mijofa:smithing_fancy/shovel
+execute if entity @s[nbt={Item:{id:"minecraft:golden_sword"}}] run function mijofa:smithing_fancy/sword
+execute if entity @s[nbt={Item:{id:"minecraft:golden_hoe"}}] run function mijofa:smithing_fancy/hoe
 
 execute if entity @s[nbt={Item:{id:"minecraft:diamond_axe"}}] run function mijofa:smithing_fancy/axe
 execute if entity @s[nbt={Item:{id:"minecraft:diamond_pickaxe"}}] run function mijofa:smithing_fancy/pickaxe

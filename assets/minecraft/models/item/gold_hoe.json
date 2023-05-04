@@ -1,7 +1,0 @@
-{
-    "parent": "minecraft:item/hoe",
-    "textures": {
-        "base": "item/gold_hoe"
-    },
-    "overrides": []
-}
