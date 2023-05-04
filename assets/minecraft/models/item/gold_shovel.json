@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/shovel",
+    "textures": {
+        "base": "item/gold_shovel"
+    },
+    "overrides": []
+}

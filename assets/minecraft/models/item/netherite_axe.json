@@ -1,1154 +1,1154 @@
 {
     "parent": "minecraft:item/axe",
     "textures": {
-        "base": "item/diamond_axe"
+        "base": "item/netherite_axe"
     },
     "overrides": [
         {
             "predicate": {
                 "custom_model_data": 6450016
             },
-            "model": "item/axe/diamond_axe/0b0000000010000"
+            "model": "item/axe/netherite_axe/0b0000000010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6454224
             },
-            "model": "item/axe/diamond_axe/0b1000010000000"
+            "model": "item/axe/netherite_axe/0b1000010000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450720
             },
-            "model": "item/axe/diamond_axe/0b0001011010000"
+            "model": "item/axe/netherite_axe/0b0001011010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452272
             },
-            "model": "item/axe/diamond_axe/0b0100011100000"
+            "model": "item/axe/netherite_axe/0b0100011100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450640
             },
-            "model": "item/axe/diamond_axe/0b0001010000000"
+            "model": "item/axe/netherite_axe/0b0001010000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452448
             },
-            "model": "item/axe/diamond_axe/0b0100110010000"
+            "model": "item/axe/netherite_axe/0b0100110010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6451088
             },
-            "model": "item/axe/diamond_axe/0b0010001000000"
+            "model": "item/axe/netherite_axe/0b0010001000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6451536
             },
-            "model": "item/axe/diamond_axe/0b0011000000000"
+            "model": "item/axe/netherite_axe/0b0011000000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452688
             },
-            "model": "item/axe/diamond_axe/0b0101010000000"
+            "model": "item/axe/netherite_axe/0b0101010000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6457712
             },
-            "model": "item/axe/diamond_axe/0b1111000100000"
+            "model": "item/axe/netherite_axe/0b1111000100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6456816
             },
-            "model": "item/axe/diamond_axe/0b1101010100000"
+            "model": "item/axe/netherite_axe/0b1101010100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6454784
             },
-            "model": "item/axe/diamond_axe/0b1001010110000"
+            "model": "item/axe/netherite_axe/0b1001010110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450624
             },
-            "model": "item/axe/diamond_axe/0b0001001110000"
+            "model": "item/axe/netherite_axe/0b0001001110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6451296
             },
-            "model": "item/axe/diamond_axe/0b0010100010000"
+            "model": "item/axe/netherite_axe/0b0010100010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450592
             },
-            "model": "item/axe/diamond_axe/0b0001001010000"
+            "model": "item/axe/netherite_axe/0b0001001010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6451600
             },
-            "model": "item/axe/diamond_axe/0b0011001000000"
+            "model": "item/axe/netherite_axe/0b0011001000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450208
             },
-            "model": "item/axe/diamond_axe/0b0000011010000"
+            "model": "item/axe/netherite_axe/0b0000011010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6454096
             },
-            "model": "item/axe/diamond_axe/0b1000000000000"
+            "model": "item/axe/netherite_axe/0b1000000000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450176
             },
-            "model": "item/axe/diamond_axe/0b0000010110000"
+            "model": "item/axe/netherite_axe/0b0000010110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450656
             },
-            "model": "item/axe/diamond_axe/0b0001010010000"
+            "model": "item/axe/netherite_axe/0b0001010010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452208
             },
-            "model": "item/axe/diamond_axe/0b0100010100000"
+            "model": "item/axe/netherite_axe/0b0100010100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450032
             },
-            "model": "item/axe/diamond_axe/0b0000000100000"
+            "model": "item/axe/netherite_axe/0b0000000100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452048
             },
-            "model": "item/axe/diamond_axe/0b0100000000000"
+            "model": "item/axe/netherite_axe/0b0100000000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452064
             },
-            "model": "item/axe/diamond_axe/0b0100000010000"
+            "model": "item/axe/netherite_axe/0b0100000010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6455120
             },
-            "model": "item/axe/diamond_axe/0b1010000000000"
+            "model": "item/axe/netherite_axe/0b1010000000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450912
             },
-            "model": "item/axe/diamond_axe/0b0001110010000"
+            "model": "item/axe/netherite_axe/0b0001110010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452736
             },
-            "model": "item/axe/diamond_axe/0b0101010110000"
+            "model": "item/axe/netherite_axe/0b0101010110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6454640
             },
-            "model": "item/axe/diamond_axe/0b1001000100000"
+            "model": "item/axe/netherite_axe/0b1001000100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452672
             },
-            "model": "item/axe/diamond_axe/0b0101001110000"
+            "model": "item/axe/netherite_axe/0b0101001110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6451072
             },
-            "model": "item/axe/diamond_axe/0b0010000110000"
+            "model": "item/axe/netherite_axe/0b0010000110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6456832
             },
-            "model": "item/axe/diamond_axe/0b1101010110000"
+            "model": "item/axe/netherite_axe/0b1101010110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450432
             },
-            "model": "item/axe/diamond_axe/0b0000110110000"
+            "model": "item/axe/netherite_axe/0b0000110110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452704
             },
-            "model": "item/axe/diamond_axe/0b0101010010000"
+            "model": "item/axe/netherite_axe/0b0101010010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452592
             },
-            "model": "item/axe/diamond_axe/0b0101000100000"
+            "model": "item/axe/netherite_axe/0b0101000100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6453648
             },
-            "model": "item/axe/diamond_axe/0b0111001000000"
+            "model": "item/axe/netherite_axe/0b0111001000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450288
             },
-            "model": "item/axe/diamond_axe/0b0000100100000"
+            "model": "item/axe/netherite_axe/0b0000100100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452480
             },
-            "model": "item/axe/diamond_axe/0b0100110110000"
+            "model": "item/axe/netherite_axe/0b0100110110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6456688
             },
-            "model": "item/axe/diamond_axe/0b1101000100000"
+            "model": "item/axe/netherite_axe/0b1101000100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450240
             },
-            "model": "item/axe/diamond_axe/0b0000011110000"
+            "model": "item/axe/netherite_axe/0b0000011110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450736
             },
-            "model": "item/axe/diamond_axe/0b0001011100000"
+            "model": "item/axe/netherite_axe/0b0001011100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452864
             },
-            "model": "item/axe/diamond_axe/0b0101100110000"
+            "model": "item/axe/netherite_axe/0b0101100110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6454656
             },
-            "model": "item/axe/diamond_axe/0b1001000110000"
+            "model": "item/axe/netherite_axe/0b1001000110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6457168
             },
-            "model": "item/axe/diamond_axe/0b1110000000000"
+            "model": "item/axe/netherite_axe/0b1110000000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6451104
             },
-            "model": "item/axe/diamond_axe/0b0010001010000"
+            "model": "item/axe/netherite_axe/0b0010001010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452976
             },
-            "model": "item/axe/diamond_axe/0b0101110100000"
+            "model": "item/axe/netherite_axe/0b0101110100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6453136
             },
-            "model": "item/axe/diamond_axe/0b0110001000000"
+            "model": "item/axe/netherite_axe/0b0110001000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450704
             },
-            "model": "item/axe/diamond_axe/0b0001011000000"
+            "model": "item/axe/netherite_axe/0b0001011000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6451632
             },
-            "model": "item/axe/diamond_axe/0b0011001100000"
+            "model": "item/axe/netherite_axe/0b0011001100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6451616
             },
-            "model": "item/axe/diamond_axe/0b0011001010000"
+            "model": "item/axe/netherite_axe/0b0011001010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6451312
             },
-            "model": "item/axe/diamond_axe/0b0010100100000"
+            "model": "item/axe/netherite_axe/0b0010100100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6451584
             },
-            "model": "item/axe/diamond_axe/0b0011000110000"
+            "model": "item/axe/netherite_axe/0b0011000110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450160
             },
-            "model": "item/axe/diamond_axe/0b0000010100000"
+            "model": "item/axe/netherite_axe/0b0000010100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450144
             },
-            "model": "item/axe/diamond_axe/0b0000010010000"
+            "model": "item/axe/netherite_axe/0b0000010010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452720
             },
-            "model": "item/axe/diamond_axe/0b0101010100000"
+            "model": "item/axe/netherite_axe/0b0101010100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450384
             },
-            "model": "item/axe/diamond_axe/0b0000110000000"
+            "model": "item/axe/netherite_axe/0b0000110000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6453600
             },
-            "model": "item/axe/diamond_axe/0b0111000010000"
+            "model": "item/axe/netherite_axe/0b0111000010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6457696
             },
-            "model": "item/axe/diamond_axe/0b1111000010000"
+            "model": "item/axe/netherite_axe/0b1111000010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452080
             },
-            "model": "item/axe/diamond_axe/0b0100000100000"
+            "model": "item/axe/netherite_axe/0b0100000100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6453360
             },
-            "model": "item/axe/diamond_axe/0b0110100100000"
+            "model": "item/axe/netherite_axe/0b0110100100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6451824
             },
-            "model": "item/axe/diamond_axe/0b0011100100000"
+            "model": "item/axe/netherite_axe/0b0011100100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452096
             },
-            "model": "item/axe/diamond_axe/0b0100000110000"
+            "model": "item/axe/netherite_axe/0b0100000110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452656
             },
-            "model": "item/axe/diamond_axe/0b0101001100000"
+            "model": "item/axe/netherite_axe/0b0101001100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452336
             },
-            "model": "item/axe/diamond_axe/0b0100100100000"
+            "model": "item/axe/netherite_axe/0b0100100100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6454752
             },
-            "model": "item/axe/diamond_axe/0b1001010010000"
+            "model": "item/axe/netherite_axe/0b1001010010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6451280
             },
-            "model": "item/axe/diamond_axe/0b0010100000000"
+            "model": "item/axe/netherite_axe/0b0010100000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450304
             },
-            "model": "item/axe/diamond_axe/0b0000100110000"
+            "model": "item/axe/netherite_axe/0b0000100110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452320
             },
-            "model": "item/axe/diamond_axe/0b0100100010000"
+            "model": "item/axe/netherite_axe/0b0100100010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6456656
             },
-            "model": "item/axe/diamond_axe/0b1101000000000"
+            "model": "item/axe/netherite_axe/0b1101000000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452304
             },
-            "model": "item/axe/diamond_axe/0b0100100000000"
+            "model": "item/axe/netherite_axe/0b0100100000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6451040
             },
-            "model": "item/axe/diamond_axe/0b0010000010000"
+            "model": "item/axe/netherite_axe/0b0010000010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450800
             },
-            "model": "item/axe/diamond_axe/0b0001100100000"
+            "model": "item/axe/netherite_axe/0b0001100100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6454272
             },
-            "model": "item/axe/diamond_axe/0b1000010110000"
+            "model": "item/axe/netherite_axe/0b1000010110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6453632
             },
-            "model": "item/axe/diamond_axe/0b0111000110000"
+            "model": "item/axe/netherite_axe/0b0111000110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6453184
             },
-            "model": "item/axe/diamond_axe/0b0110001110000"
+            "model": "item/axe/netherite_axe/0b0110001110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6457728
             },
-            "model": "item/axe/diamond_axe/0b1111000110000"
+            "model": "item/axe/netherite_axe/0b1111000110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450752
             },
-            "model": "item/axe/diamond_axe/0b0001011110000"
+            "model": "item/axe/netherite_axe/0b0001011110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450784
             },
-            "model": "item/axe/diamond_axe/0b0001100010000"
+            "model": "item/axe/netherite_axe/0b0001100010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452640
             },
-            "model": "item/axe/diamond_axe/0b0101001010000"
+            "model": "item/axe/netherite_axe/0b0101001010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6456672
             },
-            "model": "item/axe/diamond_axe/0b1101000010000"
+            "model": "item/axe/netherite_axe/0b1101000010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452112
             },
-            "model": "item/axe/diamond_axe/0b0100001000000"
+            "model": "item/axe/netherite_axe/0b0100001000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6454128
             },
-            "model": "item/axe/diamond_axe/0b1000000100000"
+            "model": "item/axe/netherite_axe/0b1000000100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6451792
             },
-            "model": "item/axe/diamond_axe/0b0011100000000"
+            "model": "item/axe/netherite_axe/0b0011100000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452848
             },
-            "model": "item/axe/diamond_axe/0b0101100100000"
+            "model": "item/axe/netherite_axe/0b0101100100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6453344
             },
-            "model": "item/axe/diamond_axe/0b0110100010000"
+            "model": "item/axe/netherite_axe/0b0110100010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6453664
             },
-            "model": "item/axe/diamond_axe/0b0111001010000"
+            "model": "item/axe/netherite_axe/0b0111001010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6453680
             },
-            "model": "item/axe/diamond_axe/0b0111001100000"
+            "model": "item/axe/netherite_axe/0b0111001100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6456176
             },
-            "model": "item/axe/diamond_axe/0b1100000100000"
+            "model": "item/axe/netherite_axe/0b1100000100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450272
             },
-            "model": "item/axe/diamond_axe/0b0000100010000"
+            "model": "item/axe/netherite_axe/0b0000100010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450080
             },
-            "model": "item/axe/diamond_axe/0b0000001010000"
+            "model": "item/axe/netherite_axe/0b0000001010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6456320
             },
-            "model": "item/axe/diamond_axe/0b1100010110000"
+            "model": "item/axe/netherite_axe/0b1100010110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6456784
             },
-            "model": "item/axe/diamond_axe/0b1101010000000"
+            "model": "item/axe/netherite_axe/0b1101010000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6454768
             },
-            "model": "item/axe/diamond_axe/0b1001010100000"
+            "model": "item/axe/netherite_axe/0b1001010100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452432
             },
-            "model": "item/axe/diamond_axe/0b0100110000000"
+            "model": "item/axe/netherite_axe/0b0100110000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6456304
             },
-            "model": "item/axe/diamond_axe/0b1100010100000"
+            "model": "item/axe/netherite_axe/0b1100010100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452256
             },
-            "model": "item/axe/diamond_axe/0b0100011010000"
+            "model": "item/axe/netherite_axe/0b0100011010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6453104
             },
-            "model": "item/axe/diamond_axe/0b0110000100000"
+            "model": "item/axe/netherite_axe/0b0110000100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452608
             },
-            "model": "item/axe/diamond_axe/0b0101000110000"
+            "model": "item/axe/netherite_axe/0b0101000110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452240
             },
-            "model": "item/axe/diamond_axe/0b0100011000000"
+            "model": "item/axe/netherite_axe/0b0100011000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452192
             },
-            "model": "item/axe/diamond_axe/0b0100010010000"
+            "model": "item/axe/netherite_axe/0b0100010010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450512
             },
-            "model": "item/axe/diamond_axe/0b0001000000000"
+            "model": "item/axe/netherite_axe/0b0001000000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450688
             },
-            "model": "item/axe/diamond_axe/0b0001010110000"
+            "model": "item/axe/netherite_axe/0b0001010110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450400
             },
-            "model": "item/axe/diamond_axe/0b0000110010000"
+            "model": "item/axe/netherite_axe/0b0000110010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6453120
             },
-            "model": "item/axe/diamond_axe/0b0110000110000"
+            "model": "item/axe/netherite_axe/0b0110000110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6456288
             },
-            "model": "item/axe/diamond_axe/0b1100010010000"
+            "model": "item/axe/netherite_axe/0b1100010010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6453088
             },
-            "model": "item/axe/diamond_axe/0b0110000010000"
+            "model": "item/axe/netherite_axe/0b0110000010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452160
             },
-            "model": "item/axe/diamond_axe/0b0100001110000"
+            "model": "item/axe/netherite_axe/0b0100001110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6451328
             },
-            "model": "item/axe/diamond_axe/0b0010100110000"
+            "model": "item/axe/netherite_axe/0b0010100110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452288
             },
-            "model": "item/axe/diamond_axe/0b0100011110000"
+            "model": "item/axe/netherite_axe/0b0100011110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6451568
             },
-            "model": "item/axe/diamond_axe/0b0011000100000"
+            "model": "item/axe/netherite_axe/0b0011000100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452224
             },
-            "model": "item/axe/diamond_axe/0b0100010110000"
+            "model": "item/axe/netherite_axe/0b0100010110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450816
             },
-            "model": "item/axe/diamond_axe/0b0001100110000"
+            "model": "item/axe/netherite_axe/0b0001100110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450128
             },
-            "model": "item/axe/diamond_axe/0b0000010000000"
+            "model": "item/axe/netherite_axe/0b0000010000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450416
             },
-            "model": "item/axe/diamond_axe/0b0000110100000"
+            "model": "item/axe/netherite_axe/0b0000110100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450608
             },
-            "model": "item/axe/diamond_axe/0b0001001100000"
+            "model": "item/axe/netherite_axe/0b0001001100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452784
             },
-            "model": "item/axe/diamond_axe/0b0101011100000"
+            "model": "item/axe/netherite_axe/0b0101011100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450528
             },
-            "model": "item/axe/diamond_axe/0b0001000010000"
+            "model": "item/axe/netherite_axe/0b0001000010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450192
             },
-            "model": "item/axe/diamond_axe/0b0000011000000"
+            "model": "item/axe/netherite_axe/0b0000011000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6453872
             },
-            "model": "item/axe/diamond_axe/0b0111100100000"
+            "model": "item/axe/netherite_axe/0b0111100100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6454112
             },
-            "model": "item/axe/diamond_axe/0b1000000010000"
+            "model": "item/axe/netherite_axe/0b1000000010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6453856
             },
-            "model": "item/axe/diamond_axe/0b0111100010000"
+            "model": "item/axe/netherite_axe/0b0111100010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6455632
             },
-            "model": "item/axe/diamond_axe/0b1011000000000"
+            "model": "item/axe/netherite_axe/0b1011000000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452816
             },
-            "model": "item/axe/diamond_axe/0b0101100000000"
+            "model": "item/axe/netherite_axe/0b0101100000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6453696
             },
-            "model": "item/axe/diamond_axe/0b0111001110000"
+            "model": "item/axe/netherite_axe/0b0111001110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6454608
             },
-            "model": "item/axe/diamond_axe/0b1001000000000"
+            "model": "item/axe/netherite_axe/0b1001000000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6456272
             },
-            "model": "item/axe/diamond_axe/0b1100010000000"
+            "model": "item/axe/netherite_axe/0b1100010000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452128
             },
-            "model": "item/axe/diamond_axe/0b0100001010000"
+            "model": "item/axe/netherite_axe/0b0100001010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452144
             },
-            "model": "item/axe/diamond_axe/0b0100001100000"
+            "model": "item/axe/netherite_axe/0b0100001100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450768
             },
-            "model": "item/axe/diamond_axe/0b0001100000000"
+            "model": "item/axe/netherite_axe/0b0001100000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6453168
             },
-            "model": "item/axe/diamond_axe/0b0110001100000"
+            "model": "item/axe/netherite_axe/0b0110001100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6455664
             },
-            "model": "item/axe/diamond_axe/0b1011000100000"
+            "model": "item/axe/netherite_axe/0b1011000100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6453616
             },
-            "model": "item/axe/diamond_axe/0b0111000100000"
+            "model": "item/axe/netherite_axe/0b0111000100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452992
             },
-            "model": "item/axe/diamond_axe/0b0101110110000"
+            "model": "item/axe/netherite_axe/0b0101110110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6454736
             },
-            "model": "item/axe/diamond_axe/0b1001010000000"
+            "model": "item/axe/netherite_axe/0b1001010000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6455136
             },
-            "model": "item/axe/diamond_axe/0b1010000010000"
+            "model": "item/axe/netherite_axe/0b1010000010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450928
             },
-            "model": "item/axe/diamond_axe/0b0001110100000"
+            "model": "item/axe/netherite_axe/0b0001110100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452944
             },
-            "model": "item/axe/diamond_axe/0b0101110000000"
+            "model": "item/axe/netherite_axe/0b0101110000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6451136
             },
-            "model": "item/axe/diamond_axe/0b0010001110000"
+            "model": "item/axe/netherite_axe/0b0010001110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6455680
             },
-            "model": "item/axe/diamond_axe/0b1011000110000"
+            "model": "item/axe/netherite_axe/0b1011000110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6456192
             },
-            "model": "item/axe/diamond_axe/0b1100000110000"
+            "model": "item/axe/netherite_axe/0b1100000110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6451808
             },
-            "model": "item/axe/diamond_axe/0b0011100010000"
+            "model": "item/axe/netherite_axe/0b0011100010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450256
             },
-            "model": "item/axe/diamond_axe/0b0000100000000"
+            "model": "item/axe/netherite_axe/0b0000100000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6451120
             },
-            "model": "item/axe/diamond_axe/0b0010001100000"
+            "model": "item/axe/netherite_axe/0b0010001100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450064
             },
-            "model": "item/axe/diamond_axe/0b0000001000000"
+            "model": "item/axe/netherite_axe/0b0000001000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6451840
             },
-            "model": "item/axe/diamond_axe/0b0011100110000"
+            "model": "item/axe/netherite_axe/0b0011100110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6453072
             },
-            "model": "item/axe/diamond_axe/0b0110000000000"
+            "model": "item/axe/netherite_axe/0b0110000000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6457200
             },
-            "model": "item/axe/diamond_axe/0b1110000100000"
+            "model": "item/axe/netherite_axe/0b1110000100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450672
             },
-            "model": "item/axe/diamond_axe/0b0001010100000"
+            "model": "item/axe/netherite_axe/0b0001010100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6454144
             },
-            "model": "item/axe/diamond_axe/0b1000000110000"
+            "model": "item/axe/netherite_axe/0b1000000110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452752
             },
-            "model": "item/axe/diamond_axe/0b0101011000000"
+            "model": "item/axe/netherite_axe/0b0101011000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6456160
             },
-            "model": "item/axe/diamond_axe/0b1100000010000"
+            "model": "item/axe/netherite_axe/0b1100000010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6454256
             },
-            "model": "item/axe/diamond_axe/0b1000010100000"
+            "model": "item/axe/netherite_axe/0b1000010100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6454240
             },
-            "model": "item/axe/diamond_axe/0b1000010010000"
+            "model": "item/axe/netherite_axe/0b1000010010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452576
             },
-            "model": "item/axe/diamond_axe/0b0101000010000"
+            "model": "item/axe/netherite_axe/0b0101000010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6451552
             },
-            "model": "item/axe/diamond_axe/0b0011000010000"
+            "model": "item/axe/netherite_axe/0b0011000010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6453376
             },
-            "model": "item/axe/diamond_axe/0b0110100110000"
+            "model": "item/axe/netherite_axe/0b0110100110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6451056
             },
-            "model": "item/axe/diamond_axe/0b0010000100000"
+            "model": "item/axe/netherite_axe/0b0010000100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6457184
             },
-            "model": "item/axe/diamond_axe/0b1110000010000"
+            "model": "item/axe/netherite_axe/0b1110000010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6454624
             },
-            "model": "item/axe/diamond_axe/0b1001000010000"
+            "model": "item/axe/netherite_axe/0b1001000010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452768
             },
-            "model": "item/axe/diamond_axe/0b0101011010000"
+            "model": "item/axe/netherite_axe/0b0101011010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6453152
             },
-            "model": "item/axe/diamond_axe/0b0110001010000"
+            "model": "item/axe/netherite_axe/0b0110001010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450560
             },
-            "model": "item/axe/diamond_axe/0b0001000110000"
+            "model": "item/axe/netherite_axe/0b0001000110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6451648
             },
-            "model": "item/axe/diamond_axe/0b0011001110000"
+            "model": "item/axe/netherite_axe/0b0011001110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6457680
             },
-            "model": "item/axe/diamond_axe/0b1111000000000"
+            "model": "item/axe/netherite_axe/0b1111000000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6453888
             },
-            "model": "item/axe/diamond_axe/0b0111100110000"
+            "model": "item/axe/netherite_axe/0b0111100110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452800
             },
-            "model": "item/axe/diamond_axe/0b0101011110000"
+            "model": "item/axe/netherite_axe/0b0101011110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450224
             },
-            "model": "item/axe/diamond_axe/0b0000011100000"
+            "model": "item/axe/netherite_axe/0b0000011100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450944
             },
-            "model": "item/axe/diamond_axe/0b0001110110000"
+            "model": "item/axe/netherite_axe/0b0001110110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452352
             },
-            "model": "item/axe/diamond_axe/0b0100100110000"
+            "model": "item/axe/netherite_axe/0b0100100110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6456144
             },
-            "model": "item/axe/diamond_axe/0b1100000000000"
+            "model": "item/axe/netherite_axe/0b1100000000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6451024
             },
-            "model": "item/axe/diamond_axe/0b0010000000000"
+            "model": "item/axe/netherite_axe/0b0010000000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452832
             },
-            "model": "item/axe/diamond_axe/0b0101100010000"
+            "model": "item/axe/netherite_axe/0b0101100010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6455152
             },
-            "model": "item/axe/diamond_axe/0b1010000100000"
+            "model": "item/axe/netherite_axe/0b1010000100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450544
             },
-            "model": "item/axe/diamond_axe/0b0001000100000"
+            "model": "item/axe/netherite_axe/0b0001000100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6456800
             },
-            "model": "item/axe/diamond_axe/0b1101010010000"
+            "model": "item/axe/netherite_axe/0b1101010010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6457216
             },
-            "model": "item/axe/diamond_axe/0b1110000110000"
+            "model": "item/axe/netherite_axe/0b1110000110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6453840
             },
-            "model": "item/axe/diamond_axe/0b0111100000000"
+            "model": "item/axe/netherite_axe/0b0111100000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6455168
             },
-            "model": "item/axe/diamond_axe/0b1010000110000"
+            "model": "item/axe/netherite_axe/0b1010000110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450048
             },
-            "model": "item/axe/diamond_axe/0b0000000110000"
+            "model": "item/axe/netherite_axe/0b0000000110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452960
             },
-            "model": "item/axe/diamond_axe/0b0101110010000"
+            "model": "item/axe/netherite_axe/0b0101110010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452464
             },
-            "model": "item/axe/diamond_axe/0b0100110100000"
+            "model": "item/axe/netherite_axe/0b0100110100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450112
             },
-            "model": "item/axe/diamond_axe/0b0000001110000"
+            "model": "item/axe/netherite_axe/0b0000001110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452560
             },
-            "model": "item/axe/diamond_axe/0b0101000000000"
+            "model": "item/axe/netherite_axe/0b0101000000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450896
             },
-            "model": "item/axe/diamond_axe/0b0001110000000"
+            "model": "item/axe/netherite_axe/0b0001110000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6453328
             },
-            "model": "item/axe/diamond_axe/0b0110100000000"
+            "model": "item/axe/netherite_axe/0b0110100000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6455648
             },
-            "model": "item/axe/diamond_axe/0b1011000010000"
+            "model": "item/axe/netherite_axe/0b1011000010000"
         },
         {
             "predicate": {
                 "custom_model_data": 6456704
             },
-            "model": "item/axe/diamond_axe/0b1101000110000"
+            "model": "item/axe/netherite_axe/0b1101000110000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452176
             },
-            "model": "item/axe/diamond_axe/0b0100010000000"
+            "model": "item/axe/netherite_axe/0b0100010000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6452624
             },
-            "model": "item/axe/diamond_axe/0b0101001000000"
+            "model": "item/axe/netherite_axe/0b0101001000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6453584
             },
-            "model": "item/axe/diamond_axe/0b0111000000000"
+            "model": "item/axe/netherite_axe/0b0111000000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450096
             },
-            "model": "item/axe/diamond_axe/0b0000001100000"
+            "model": "item/axe/netherite_axe/0b0000001100000"
         },
         {
             "predicate": {
                 "custom_model_data": 6450576
             },
-            "model": "item/axe/diamond_axe/0b0001001000000"
+            "model": "item/axe/netherite_axe/0b0001001000000"
         }
     ]
 }

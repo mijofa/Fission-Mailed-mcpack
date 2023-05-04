@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/pickaxe",
+    "textures": {
+        "base": "item/gold_pickaxe"
+    },
+    "overrides": []
+}
