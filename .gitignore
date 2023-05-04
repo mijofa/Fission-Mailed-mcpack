@@ -1,3 +1,6 @@
 *.zip
 *.mcpack
 geyser_mappings.json
+
+*~
+*.swp
