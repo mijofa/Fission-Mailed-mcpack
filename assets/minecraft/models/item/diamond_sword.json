@@ -6,2259 +6,15 @@
     "overrides": [
         {
             "predicate": {
-                "custom_model_data": 6450016
-            },
-            "model": "item/swords/diamond_sword/0b0000000010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453504
-            },
-            "model": "item/swords/diamond_sword/0b0110110110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450552
-            },
-            "model": "item/swords/diamond_sword/0b0001000101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452696
-            },
-            "model": "item/swords/diamond_sword/0b0101010001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450640
-            },
-            "model": "item/swords/diamond_sword/0b0001010000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451320
-            },
-            "model": "item/swords/diamond_sword/0b0010100101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6457192
-            },
-            "model": "item/swords/diamond_sword/0b1110000011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453712
-            },
-            "model": "item/swords/diamond_sword/0b0111010000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450568
-            },
-            "model": "item/swords/diamond_sword/0b0001000111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452384
-            },
-            "model": "item/swords/diamond_sword/0b0100101010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450336
-            },
-            "model": "item/swords/diamond_sword/0b0000101010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453704
-            },
-            "model": "item/swords/diamond_sword/0b0111001111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452448
-            },
-            "model": "item/swords/diamond_sword/0b0100110010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450368
-            },
-            "model": "item/swords/diamond_sword/0b0000101110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451088
-            },
-            "model": "item/swords/diamond_sword/0b0010001000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6455392
-            },
-            "model": "item/swords/diamond_sword/0b1010100010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6454616
-            },
-            "model": "item/swords/diamond_sword/0b1001000001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451536
-            },
-            "model": "item/swords/diamond_sword/0b0011000000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450440
-            },
-            "model": "item/swords/diamond_sword/0b0000110111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6455640
-            },
-            "model": "item/swords/diamond_sword/0b1011000001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452688
-            },
-            "model": "item/swords/diamond_sword/0b0101010000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453688
-            },
-            "model": "item/swords/diamond_sword/0b0111001101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451168
-            },
-            "model": "item/swords/diamond_sword/0b0010010010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450696
-            },
-            "model": "item/swords/diamond_sword/0b0001010111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453728
-            },
-            "model": "item/swords/diamond_sword/0b0111010010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6454408
-            },
-            "model": "item/swords/diamond_sword/0b1000100111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6456928
-            },
-            "model": "item/swords/diamond_sword/0b1101100010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6457712
-            },
-            "model": "item/swords/diamond_sword/0b1111000100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453336
-            },
-            "model": "item/swords/diamond_sword/0b0110100001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6455656
-            },
-            "model": "item/swords/diamond_sword/0b1011000011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450624
-            },
-            "model": "item/swords/diamond_sword/0b0001001110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451296
-            },
-            "model": "item/swords/diamond_sword/0b0010100010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452928
-            },
-            "model": "item/swords/diamond_sword/0b0101101110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6455688
-            },
-            "model": "item/swords/diamond_sword/0b1011000111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451560
-            },
-            "model": "item/swords/diamond_sword/0b0011000011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452440
-            },
-            "model": "item/swords/diamond_sword/0b0100110001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452840
-            },
-            "model": "item/swords/diamond_sword/0b0101100011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450344
-            },
-            "model": "item/swords/diamond_sword/0b0000101011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6457176
-            },
-            "model": "item/swords/diamond_sword/0b1110000001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6456920
-            },
-            "model": "item/swords/diamond_sword/0b1101100001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452368
-            },
-            "model": "item/swords/diamond_sword/0b0100101000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6457448
-            },
-            "model": "item/swords/diamond_sword/0b1110100011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450592
-            },
-            "model": "item/swords/diamond_sword/0b0001001010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451600
-            },
-            "model": "item/swords/diamond_sword/0b0011001000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452360
-            },
-            "model": "item/swords/diamond_sword/0b0100100111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6454096
-            },
-            "model": "item/swords/diamond_sword/0b1000000000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450176
-            },
-            "model": "item/swords/diamond_sword/0b0000010110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450864
-            },
-            "model": "item/swords/diamond_sword/0b0001101100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6454880
-            },
-            "model": "item/swords/diamond_sword/0b1001100010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6456408
-            },
-            "model": "item/swords/diamond_sword/0b1100100001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6456152
-            },
-            "model": "item/swords/diamond_sword/0b1100000001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450656
-            },
-            "model": "item/swords/diamond_sword/0b0001010010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452208
-            },
-            "model": "item/swords/diamond_sword/0b0100010100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450032
-            },
-            "model": "item/swords/diamond_sword/0b0000000100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453752
-            },
-            "model": "item/swords/diamond_sword/0b0111010101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452048
-            },
-            "model": "item/swords/diamond_sword/0b0100000000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451696
-            },
-            "model": "item/swords/diamond_sword/0b0011010100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6454368
-            },
-            "model": "item/swords/diamond_sword/0b1000100010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452064
-            },
-            "model": "item/swords/diamond_sword/0b0100000010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453224
-            },
-            "model": "item/swords/diamond_sword/0b0110010011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450680
-            },
-            "model": "item/swords/diamond_sword/0b0001010101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6455120
-            },
-            "model": "item/swords/diamond_sword/0b1010000000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451848
-            },
-            "model": "item/swords/diamond_sword/0b0011100111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450912
-            },
-            "model": "item/swords/diamond_sword/0b0001110010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452736
-            },
-            "model": "item/swords/diamond_sword/0b0101010110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6454640
-            },
-            "model": "item/swords/diamond_sword/0b1001000100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451896
-            },
-            "model": "item/swords/diamond_sword/0b0011101101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452872
-            },
-            "model": "item/swords/diamond_sword/0b0101100111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451200
-            },
-            "model": "item/swords/diamond_sword/0b0010010110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452672
-            },
-            "model": "item/swords/diamond_sword/0b0101001110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450632
-            },
-            "model": "item/swords/diamond_sword/0b0001001111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451384
-            },
-            "model": "item/swords/diamond_sword/0b0010101101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450280
-            },
-            "model": "item/swords/diamond_sword/0b0000100011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453656
-            },
-            "model": "item/swords/diamond_sword/0b0111001001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453952
-            },
-            "model": "item/swords/diamond_sword/0b0111101110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452712
-            },
-            "model": "item/swords/diamond_sword/0b0101010011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451072
-            },
-            "model": "item/swords/diamond_sword/0b0010000110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6455160
-            },
-            "model": "item/swords/diamond_sword/0b1010000101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451304
-            },
-            "model": "item/swords/diamond_sword/0b0010100011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451392
-            },
-            "model": "item/swords/diamond_sword/0b0010101110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450432
-            },
-            "model": "item/swords/diamond_sword/0b0000110110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452400
-            },
-            "model": "item/swords/diamond_sword/0b0100101100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6456912
-            },
-            "model": "item/swords/diamond_sword/0b1101100000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451680
-            },
-            "model": "item/swords/diamond_sword/0b0011010010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451664
-            },
-            "model": "item/swords/diamond_sword/0b0011010000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6456664
-            },
-            "model": "item/swords/diamond_sword/0b1101000001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452104
-            },
-            "model": "item/swords/diamond_sword/0b0100000111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452456
-            },
-            "model": "item/swords/diamond_sword/0b0100110011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452704
-            },
-            "model": "item/swords/diamond_sword/0b0101010010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452592
-            },
-            "model": "item/swords/diamond_sword/0b0101000100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453648
-            },
-            "model": "item/swords/diamond_sword/0b0111001000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450792
-            },
-            "model": "item/swords/diamond_sword/0b0001100011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453608
-            },
-            "model": "item/swords/diamond_sword/0b0111000011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450288
-            },
-            "model": "item/swords/diamond_sword/0b0000100100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452480
-            },
-            "model": "item/swords/diamond_sword/0b0100110110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451688
-            },
-            "model": "item/swords/diamond_sword/0b0011010011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6456688
-            },
-            "model": "item/swords/diamond_sword/0b1101000100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451624
-            },
-            "model": "item/swords/diamond_sword/0b0011001011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453928
-            },
-            "model": "item/swords/diamond_sword/0b0111101011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451608
-            },
-            "model": "item/swords/diamond_sword/0b0011001001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452864
-            },
-            "model": "item/swords/diamond_sword/0b0101100110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6454656
-            },
-            "model": "item/swords/diamond_sword/0b1001000110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451864
-            },
-            "model": "item/swords/diamond_sword/0b0011101001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450952
-            },
-            "model": "item/swords/diamond_sword/0b0001110111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452328
-            },
-            "model": "item/swords/diamond_sword/0b0100100011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6456456
-            },
-            "model": "item/swords/diamond_sword/0b1100100111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6457424
-            },
-            "model": "item/swords/diamond_sword/0b1110100000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6457168
-            },
-            "model": "item/swords/diamond_sword/0b1110000000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451104
-            },
-            "model": "item/swords/diamond_sword/0b0010001010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453080
-            },
-            "model": "item/swords/diamond_sword/0b0110000001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450536
-            },
-            "model": "item/swords/diamond_sword/0b0001000011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452952
-            },
-            "model": "item/swords/diamond_sword/0b0101110001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450296
-            },
-            "model": "item/swords/diamond_sword/0b0000100101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452976
-            },
-            "model": "item/swords/diamond_sword/0b0101110100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453736
-            },
-            "model": "item/swords/diamond_sword/0b0111010011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453768
-            },
-            "model": "item/swords/diamond_sword/0b0111010111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451096
-            },
-            "model": "item/swords/diamond_sword/0b0010001001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453136
-            },
-            "model": "item/swords/diamond_sword/0b0110001000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6456168
-            },
-            "model": "item/swords/diamond_sword/0b1100000011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451632
-            },
-            "model": "item/swords/diamond_sword/0b0011001100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6454360
-            },
-            "model": "item/swords/diamond_sword/0b1000100001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451616
-            },
-            "model": "item/swords/diamond_sword/0b0011001010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453512
-            },
-            "model": "item/swords/diamond_sword/0b0110110111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6456448
-            },
-            "model": "item/swords/diamond_sword/0b1100100110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6457984
-            },
-            "model": "item/swords/diamond_sword/0b1111100110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451312
-            },
-            "model": "item/swords/diamond_sword/0b0010100100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452168
-            },
-            "model": "item/swords/diamond_sword/0b0100001111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451584
-            },
-            "model": "item/swords/diamond_sword/0b0011000110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450424
-            },
-            "model": "item/swords/diamond_sword/0b0000110101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450160
-            },
-            "model": "item/swords/diamond_sword/0b0000010100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451888
-            },
-            "model": "item/swords/diamond_sword/0b0011101100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451208
-            },
-            "model": "item/swords/diamond_sword/0b0010010111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450144
-            },
-            "model": "item/swords/diamond_sword/0b0000010010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452728
-            },
-            "model": "item/swords/diamond_sword/0b0101010101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453920
-            },
-            "model": "item/swords/diamond_sword/0b0111101010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450320
-            },
-            "model": "item/swords/diamond_sword/0b0000101000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453672
-            },
-            "model": "item/swords/diamond_sword/0b0111001011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6456432
-            },
-            "model": "item/swords/diamond_sword/0b1100100100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6455928
-            },
-            "model": "item/swords/diamond_sword/0b1011100101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452720
-            },
-            "model": "item/swords/diamond_sword/0b0101010100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450384
-            },
-            "model": "item/swords/diamond_sword/0b0000110000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6455912
-            },
-            "model": "item/swords/diamond_sword/0b1011100011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453128
-            },
-            "model": "item/swords/diamond_sword/0b0110000111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453600
-            },
-            "model": "item/swords/diamond_sword/0b0111000010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451656
-            },
-            "model": "item/swords/diamond_sword/0b0011001111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453896
-            },
-            "model": "item/swords/diamond_sword/0b0111100111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453880
-            },
-            "model": "item/swords/diamond_sword/0b0111100101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450408
-            },
-            "model": "item/swords/diamond_sword/0b0000110011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6455144
-            },
-            "model": "item/swords/diamond_sword/0b1010000011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6454632
-            },
-            "model": "item/swords/diamond_sword/0b1001000011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451288
-            },
-            "model": "item/swords/diamond_sword/0b0010100001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6454664
-            },
-            "model": "item/swords/diamond_sword/0b1001000111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6457696
-            },
-            "model": "item/swords/diamond_sword/0b1111000010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452080
-            },
-            "model": "item/swords/diamond_sword/0b0100000100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453360
-            },
-            "model": "item/swords/diamond_sword/0b0110100100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451576
-            },
-            "model": "item/swords/diamond_sword/0b0011000101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451824
-            },
-            "model": "item/swords/diamond_sword/0b0011100100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450776
-            },
-            "model": "item/swords/diamond_sword/0b0001100001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450832
-            },
-            "model": "item/swords/diamond_sword/0b0001101000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450376
-            },
-            "model": "item/swords/diamond_sword/0b0000101111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6455400
-            },
-            "model": "item/swords/diamond_sword/0b1010100011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452096
-            },
-            "model": "item/swords/diamond_sword/0b0100000110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452376
-            },
-            "model": "item/swords/diamond_sword/0b0100101001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452656
-            },
-            "model": "item/swords/diamond_sword/0b0101001100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452336
-            },
-            "model": "item/swords/diamond_sword/0b0100100100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451176
-            },
-            "model": "item/swords/diamond_sword/0b0010010011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450312
-            },
-            "model": "item/swords/diamond_sword/0b0000100111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450904
-            },
-            "model": "item/swords/diamond_sword/0b0001110001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451280
-            },
-            "model": "item/swords/diamond_sword/0b0010100000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450352
-            },
-            "model": "item/swords/diamond_sword/0b0000101100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452488
-            },
-            "model": "item/swords/diamond_sword/0b0100110111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453368
-            },
-            "model": "item/swords/diamond_sword/0b0110100101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450304
-            },
-            "model": "item/swords/diamond_sword/0b0000100110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452320
-            },
-            "model": "item/swords/diamond_sword/0b0100100010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6456656
-            },
-            "model": "item/swords/diamond_sword/0b1101000000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451720
-            },
-            "model": "item/swords/diamond_sword/0b0011010111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453848
-            },
-            "model": "item/swords/diamond_sword/0b0111100001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6455176
-            },
-            "model": "item/swords/diamond_sword/0b1010000111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451912
-            },
-            "model": "item/swords/diamond_sword/0b0011101111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450664
-            },
-            "model": "item/swords/diamond_sword/0b0001010011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450872
-            },
-            "model": "item/swords/diamond_sword/0b0001101101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6455384
-            },
-            "model": "item/swords/diamond_sword/0b1010100001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451640
-            },
-            "model": "item/swords/diamond_sword/0b0011001101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452664
-            },
-            "model": "item/swords/diamond_sword/0b0101001101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452304
-            },
-            "model": "item/swords/diamond_sword/0b0100100000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451040
-            },
-            "model": "item/swords/diamond_sword/0b0010000010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452936
-            },
-            "model": "item/swords/diamond_sword/0b0101101111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450800
-            },
-            "model": "item/swords/diamond_sword/0b0001100100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450600
-            },
-            "model": "item/swords/diamond_sword/0b0001001011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452744
-            },
-            "model": "item/swords/diamond_sword/0b0101010111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453216
-            },
-            "model": "item/swords/diamond_sword/0b0110010010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6455936
-            },
-            "model": "item/swords/diamond_sword/0b1011100110000"
-        },
-        {
-            "predicate": {
                 "custom_model_data": 6450008
             },
             "model": "item/swords/diamond_sword/0b0000000001000"
         },
         {
             "predicate": {
-                "custom_model_data": 6451416
+                "custom_model_data": 6450016
             },
-            "model": "item/swords/diamond_sword/0b0010110001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451152
-            },
-            "model": "item/swords/diamond_sword/0b0010010000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452472
-            },
-            "model": "item/swords/diamond_sword/0b0100110101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453232
-            },
-            "model": "item/swords/diamond_sword/0b0110010100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451032
-            },
-            "model": "item/swords/diamond_sword/0b0010000001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450152
-            },
-            "model": "item/swords/diamond_sword/0b0000010011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453632
-            },
-            "model": "item/swords/diamond_sword/0b0111000110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453184
-            },
-            "model": "item/swords/diamond_sword/0b0110001110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6455888
-            },
-            "model": "item/swords/diamond_sword/0b1011100000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452856
-            },
-            "model": "item/swords/diamond_sword/0b0101100101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6457728
-            },
-            "model": "item/swords/diamond_sword/0b1111000110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450784
-            },
-            "model": "item/swords/diamond_sword/0b0001100010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452640
-            },
-            "model": "item/swords/diamond_sword/0b0101001010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6456672
-            },
-            "model": "item/swords/diamond_sword/0b1101000010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453488
-            },
-            "model": "item/swords/diamond_sword/0b0110110100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451184
-            },
-            "model": "item/swords/diamond_sword/0b0010010100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452112
-            },
-            "model": "item/swords/diamond_sword/0b0100001000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452120
-            },
-            "model": "item/swords/diamond_sword/0b0100001001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6454384
-            },
-            "model": "item/swords/diamond_sword/0b1000100100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450856
-            },
-            "model": "item/swords/diamond_sword/0b0001101011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6455904
-            },
-            "model": "item/swords/diamond_sword/0b1011100010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451952
-            },
-            "model": "item/swords/diamond_sword/0b0011110100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451048
-            },
-            "model": "item/swords/diamond_sword/0b0010000011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6454128
-            },
-            "model": "item/swords/diamond_sword/0b1000000100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451792
-            },
-            "model": "item/swords/diamond_sword/0b0011100000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450936
-            },
-            "model": "item/swords/diamond_sword/0b0001110101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450328
-            },
-            "model": "item/swords/diamond_sword/0b0000101001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452848
-            },
-            "model": "item/swords/diamond_sword/0b0101100100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450840
-            },
-            "model": "item/swords/diamond_sword/0b0001101001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452968
-            },
-            "model": "item/swords/diamond_sword/0b0101110011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451368
-            },
-            "model": "item/swords/diamond_sword/0b0010101011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452312
-            },
-            "model": "item/swords/diamond_sword/0b0100100001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453344
-            },
-            "model": "item/swords/diamond_sword/0b0110100010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453664
-            },
-            "model": "item/swords/diamond_sword/0b0111001010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453640
-            },
-            "model": "item/swords/diamond_sword/0b0111000111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453680
-            },
-            "model": "item/swords/diamond_sword/0b0111001100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6456176
-            },
-            "model": "item/swords/diamond_sword/0b1100000100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450272
-            },
-            "model": "item/swords/diamond_sword/0b0000100010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451920
-            },
-            "model": "item/swords/diamond_sword/0b0011110000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451936
-            },
-            "model": "item/swords/diamond_sword/0b0011110010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453984
-            },
-            "model": "item/swords/diamond_sword/0b0111110010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452200
-            },
-            "model": "item/swords/diamond_sword/0b0100010011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6457440
-            },
-            "model": "item/swords/diamond_sword/0b1110100010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6456424
-            },
-            "model": "item/swords/diamond_sword/0b1100100011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450080
-            },
-            "model": "item/swords/diamond_sword/0b0000001010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450880
-            },
-            "model": "item/swords/diamond_sword/0b0001101110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6455416
-            },
-            "model": "item/swords/diamond_sword/0b1010100101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6457968
-            },
-            "model": "item/swords/diamond_sword/0b1111100100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6457720
-            },
-            "model": "item/swords/diamond_sword/0b1111000101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450072
-            },
-            "model": "item/swords/diamond_sword/0b0000001001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452432
-            },
-            "model": "item/swords/diamond_sword/0b0100110000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6456400
-            },
-            "model": "item/swords/diamond_sword/0b1100100000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453000
-            },
-            "model": "item/swords/diamond_sword/0b0101110111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6457472
-            },
-            "model": "item/swords/diamond_sword/0b1110100110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450520
-            },
-            "model": "item/swords/diamond_sword/0b0001000001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453104
-            },
-            "model": "item/swords/diamond_sword/0b0110000100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450088
-            },
-            "model": "item/swords/diamond_sword/0b0000001011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452608
-            },
-            "model": "item/swords/diamond_sword/0b0101000110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451440
-            },
-            "model": "item/swords/diamond_sword/0b0010110100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451160
-            },
-            "model": "item/swords/diamond_sword/0b0010010001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451856
-            },
-            "model": "item/swords/diamond_sword/0b0011101000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453192
-            },
-            "model": "item/swords/diamond_sword/0b0110001111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6457952
-            },
-            "model": "item/swords/diamond_sword/0b1111100010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452192
-            },
-            "model": "item/swords/diamond_sword/0b0100010010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453256
-            },
-            "model": "item/swords/diamond_sword/0b0110010111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450136
-            },
-            "model": "item/swords/diamond_sword/0b0000010001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453968
-            },
-            "model": "item/swords/diamond_sword/0b0111110000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451424
-            },
-            "model": "item/swords/diamond_sword/0b0010110010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6454024
-            },
-            "model": "item/swords/diamond_sword/0b0111110111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450360
-            },
-            "model": "item/swords/diamond_sword/0b0000101101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452408
-            },
-            "model": "item/swords/diamond_sword/0b0100101101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450512
-            },
-            "model": "item/swords/diamond_sword/0b0001000000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450688
-            },
-            "model": "item/swords/diamond_sword/0b0001010110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450400
-            },
-            "model": "item/swords/diamond_sword/0b0000110010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453120
-            },
-            "model": "item/swords/diamond_sword/0b0110000110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452904
-            },
-            "model": "item/swords/diamond_sword/0b0101101011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451144
-            },
-            "model": "item/swords/diamond_sword/0b0010001111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6454648
-            },
-            "model": "item/swords/diamond_sword/0b1001000101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451408
-            },
-            "model": "item/swords/diamond_sword/0b0010110000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453936
-            },
-            "model": "item/swords/diamond_sword/0b0111101100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453088
-            },
-            "model": "item/swords/diamond_sword/0b0110000010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451904
-            },
-            "model": "item/swords/diamond_sword/0b0011101110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450056
-            },
-            "model": "item/swords/diamond_sword/0b0000000111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453760
-            },
-            "model": "item/swords/diamond_sword/0b0111010110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451336
-            },
-            "model": "item/swords/diamond_sword/0b0010100111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6457944
-            },
-            "model": "item/swords/diamond_sword/0b1111100001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450040
-            },
-            "model": "item/swords/diamond_sword/0b0000000101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452680
-            },
-            "model": "item/swords/diamond_sword/0b0101001111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452056
-            },
-            "model": "item/swords/diamond_sword/0b0100000001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6457936
-            },
-            "model": "item/swords/diamond_sword/0b1111100000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453976
-            },
-            "model": "item/swords/diamond_sword/0b0111110001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452880
-            },
-            "model": "item/swords/diamond_sword/0b0101101000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6457688
-            },
-            "model": "item/swords/diamond_sword/0b1111000001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453208
-            },
-            "model": "item/swords/diamond_sword/0b0110010001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6457976
-            },
-            "model": "item/swords/diamond_sword/0b1111100101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452160
-            },
-            "model": "item/swords/diamond_sword/0b0100001110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6456416
-            },
-            "model": "item/swords/diamond_sword/0b1100100010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451328
-            },
-            "model": "item/swords/diamond_sword/0b0010100110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453248
-            },
-            "model": "item/swords/diamond_sword/0b0110010110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453864
-            },
-            "model": "item/swords/diamond_sword/0b0111100011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453496
-            },
-            "model": "item/swords/diamond_sword/0b0110110101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452088
-            },
-            "model": "item/swords/diamond_sword/0b0100000101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451568
-            },
-            "model": "item/swords/diamond_sword/0b0011000100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452224
-            },
-            "model": "item/swords/diamond_sword/0b0100010110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6454392
-            },
-            "model": "item/swords/diamond_sword/0b1000100101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453912
-            },
-            "model": "item/swords/diamond_sword/0b0111101001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450816
-            },
-            "model": "item/swords/diamond_sword/0b0001100110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453384
-            },
-            "model": "item/swords/diamond_sword/0b0110100111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450128
-            },
-            "model": "item/swords/diamond_sword/0b0000010000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450416
-            },
-            "model": "item/swords/diamond_sword/0b0000110100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451352
-            },
-            "model": "item/swords/diamond_sword/0b0010101001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451832
-            },
-            "model": "item/swords/diamond_sword/0b0011100101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6455376
-            },
-            "model": "item/swords/diamond_sword/0b1010100000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453432
-            },
-            "model": "item/swords/diamond_sword/0b0110101101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450608
-            },
-            "model": "item/swords/diamond_sword/0b0001001100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6456944
-            },
-            "model": "item/swords/diamond_sword/0b1101100100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450616
-            },
-            "model": "item/swords/diamond_sword/0b0001001101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6456712
-            },
-            "model": "item/swords/diamond_sword/0b1101000111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6456936
-            },
-            "model": "item/swords/diamond_sword/0b1101100011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452392
-            },
-            "model": "item/swords/diamond_sword/0b0100101011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450528
-            },
-            "model": "item/swords/diamond_sword/0b0001000010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452648
-            },
-            "model": "item/swords/diamond_sword/0b0101001011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6456968
-            },
-            "model": "item/swords/diamond_sword/0b1101100111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6454920
-            },
-            "model": "item/swords/diamond_sword/0b1001100111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451928
-            },
-            "model": "item/swords/diamond_sword/0b0011110001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453472
-            },
-            "model": "item/swords/diamond_sword/0b0110110010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453872
-            },
-            "model": "item/swords/diamond_sword/0b0111100100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6454112
-            },
-            "model": "item/swords/diamond_sword/0b1000000010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451400
-            },
-            "model": "item/swords/diamond_sword/0b0010101111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6455672
-            },
-            "model": "item/swords/diamond_sword/0b1011000101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453856
-            },
-            "model": "item/swords/diamond_sword/0b0111100010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450168
-            },
-            "model": "item/swords/diamond_sword/0b0000010101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6455632
-            },
-            "model": "item/swords/diamond_sword/0b1011000000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451592
-            },
-            "model": "item/swords/diamond_sword/0b0011000111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452600
-            },
-            "model": "item/swords/diamond_sword/0b0101000101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452816
-            },
-            "model": "item/swords/diamond_sword/0b0101100000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452424
-            },
-            "model": "item/swords/diamond_sword/0b0100101111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6455432
-            },
-            "model": "item/swords/diamond_sword/0b1010100111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453696
-            },
-            "model": "item/swords/diamond_sword/0b0111001110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453904
-            },
-            "model": "item/swords/diamond_sword/0b0111101000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6454904
-            },
-            "model": "item/swords/diamond_sword/0b1001100101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6454608
-            },
-            "model": "item/swords/diamond_sword/0b1001000000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451544
-            },
-            "model": "item/swords/diamond_sword/0b0011000001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453096
-            },
-            "model": "item/swords/diamond_sword/0b0110000011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452824
-            },
-            "model": "item/swords/diamond_sword/0b0101100001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450920
-            },
-            "model": "item/swords/diamond_sword/0b0001110011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451112
-            },
-            "model": "item/swords/diamond_sword/0b0010001011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6457464
-            },
-            "model": "item/swords/diamond_sword/0b1110100101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452136
-            },
-            "model": "item/swords/diamond_sword/0b0100001011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452632
-            },
-            "model": "item/swords/diamond_sword/0b0101001001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452128
-            },
-            "model": "item/swords/diamond_sword/0b0100001010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453456
-            },
-            "model": "item/swords/diamond_sword/0b0110110000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451960
-            },
-            "model": "item/swords/diamond_sword/0b0011110101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451360
-            },
-            "model": "item/swords/diamond_sword/0b0010101010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451080
-            },
-            "model": "item/swords/diamond_sword/0b0010000111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453424
-            },
-            "model": "item/swords/diamond_sword/0b0110101100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452144
-            },
-            "model": "item/swords/diamond_sword/0b0100001100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450768
-            },
-            "model": "item/swords/diamond_sword/0b0001100000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6456696
-            },
-            "model": "item/swords/diamond_sword/0b1101000101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453168
-            },
-            "model": "item/swords/diamond_sword/0b0110001100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6455664
-            },
-            "model": "item/swords/diamond_sword/0b1011000100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451192
-            },
-            "model": "item/swords/diamond_sword/0b0010010101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6454352
-            },
-            "model": "item/swords/diamond_sword/0b1000100000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6454888
-            },
-            "model": "item/swords/diamond_sword/0b1001100011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453616
-            },
-            "model": "item/swords/diamond_sword/0b0111000100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6456952
-            },
-            "model": "item/swords/diamond_sword/0b1101100101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452152
-            },
-            "model": "item/swords/diamond_sword/0b0100001101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452888
-            },
-            "model": "item/swords/diamond_sword/0b0101101001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6457704
-            },
-            "model": "item/swords/diamond_sword/0b1111000011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451432
-            },
-            "model": "item/swords/diamond_sword/0b0010110011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450648
-            },
-            "model": "item/swords/diamond_sword/0b0001010001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452992
-            },
-            "model": "item/swords/diamond_sword/0b0101110110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6455136
-            },
-            "model": "item/swords/diamond_sword/0b1010000010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450928
-            },
-            "model": "item/swords/diamond_sword/0b0001110100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452944
-            },
-            "model": "item/swords/diamond_sword/0b0101110000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451136
-            },
-            "model": "item/swords/diamond_sword/0b0010001110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453416
-            },
-            "model": "item/swords/diamond_sword/0b0110101011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6455680
-            },
-            "model": "item/swords/diamond_sword/0b1011000110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453592
-            },
-            "model": "item/swords/diamond_sword/0b0111000001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6456192
-            },
-            "model": "item/swords/diamond_sword/0b1100000110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451808
-            },
-            "model": "item/swords/diamond_sword/0b0011100010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450256
-            },
-            "model": "item/swords/diamond_sword/0b0000100000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450184
-            },
-            "model": "item/swords/diamond_sword/0b0000010111000"
+            "model": "item/swords/diamond_sword/0b0000000010000"
         },
         {
             "predicate": {
@@ -2268,603 +24,15 @@
         },
         {
             "predicate": {
-                "custom_model_data": 6454000
+                "custom_model_data": 6450032
             },
-            "model": "item/swords/diamond_sword/0b0111110100000"
+            "model": "item/swords/diamond_sword/0b0000000100000"
         },
         {
             "predicate": {
-                "custom_model_data": 6453720
+                "custom_model_data": 6450040
             },
-            "model": "item/swords/diamond_sword/0b0111010001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451120
-            },
-            "model": "item/swords/diamond_sword/0b0010001100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6456960
-            },
-            "model": "item/swords/diamond_sword/0b1101100110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6457960
-            },
-            "model": "item/swords/diamond_sword/0b1111100011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453408
-            },
-            "model": "item/swords/diamond_sword/0b0110101010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450392
-            },
-            "model": "item/swords/diamond_sword/0b0000110001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450064
-            },
-            "model": "item/swords/diamond_sword/0b0000001000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452984
-            },
-            "model": "item/swords/diamond_sword/0b0101110101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6457736
-            },
-            "model": "item/swords/diamond_sword/0b1111000111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6457432
-            },
-            "model": "item/swords/diamond_sword/0b1110100001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451840
-            },
-            "model": "item/swords/diamond_sword/0b0011100110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6456680
-            },
-            "model": "item/swords/diamond_sword/0b1101000011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452896
-            },
-            "model": "item/swords/diamond_sword/0b0101101010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453072
-            },
-            "model": "item/swords/diamond_sword/0b0110000000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450824
-            },
-            "model": "item/swords/diamond_sword/0b0001100111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452216
-            },
-            "model": "item/swords/diamond_sword/0b0100010101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453944
-            },
-            "model": "item/swords/diamond_sword/0b0111101101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6457200
-            },
-            "model": "item/swords/diamond_sword/0b1110000100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453624
-            },
-            "model": "item/swords/diamond_sword/0b0111000101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450672
-            },
-            "model": "item/swords/diamond_sword/0b0001010100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6454144
-            },
-            "model": "item/swords/diamond_sword/0b1000000110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452072
-            },
-            "model": "item/swords/diamond_sword/0b0100000011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6454104
-            },
-            "model": "item/swords/diamond_sword/0b1000000001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452912
-            },
-            "model": "item/swords/diamond_sword/0b0101101100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6456200
-            },
-            "model": "item/swords/diamond_sword/0b1100000111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6454376
-            },
-            "model": "item/swords/diamond_sword/0b1000100011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6456160
-            },
-            "model": "item/swords/diamond_sword/0b1100000010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6455408
-            },
-            "model": "item/swords/diamond_sword/0b1010100100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450584
-            },
-            "model": "item/swords/diamond_sword/0b0001001001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452576
-            },
-            "model": "item/swords/diamond_sword/0b0101000010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451552
-            },
-            "model": "item/swords/diamond_sword/0b0011000010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453440
-            },
-            "model": "item/swords/diamond_sword/0b0110101110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453376
-            },
-            "model": "item/swords/diamond_sword/0b0110100110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453744
-            },
-            "model": "item/swords/diamond_sword/0b0111010100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451056
-            },
-            "model": "item/swords/diamond_sword/0b0010000100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6457184
-            },
-            "model": "item/swords/diamond_sword/0b1110000010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6455944
-            },
-            "model": "item/swords/diamond_sword/0b1011100111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6454624
-            },
-            "model": "item/swords/diamond_sword/0b1001000010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451800
-            },
-            "model": "item/swords/diamond_sword/0b0011100001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453448
-            },
-            "model": "item/swords/diamond_sword/0b0110101111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453152
-            },
-            "model": "item/swords/diamond_sword/0b0110001010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6454016
-            },
-            "model": "item/swords/diamond_sword/0b0111110110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451968
-            },
-            "model": "item/swords/diamond_sword/0b0011110110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450560
-            },
-            "model": "item/swords/diamond_sword/0b0001000110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453392
-            },
-            "model": "item/swords/diamond_sword/0b0110101000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6456440
-            },
-            "model": "item/swords/diamond_sword/0b1100100101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451648
-            },
-            "model": "item/swords/diamond_sword/0b0011001110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6457680
-            },
-            "model": "item/swords/diamond_sword/0b1111000000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6454008
-            },
-            "model": "item/swords/diamond_sword/0b0111110101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453888
-            },
-            "model": "item/swords/diamond_sword/0b0111100110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453112
-            },
-            "model": "item/swords/diamond_sword/0b0110000101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453352
-            },
-            "model": "item/swords/diamond_sword/0b0110100011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453400
-            },
-            "model": "item/swords/diamond_sword/0b0110101001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6454136
-            },
-            "model": "item/swords/diamond_sword/0b1000000101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451344
-            },
-            "model": "item/swords/diamond_sword/0b0010101000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6457208
-            },
-            "model": "item/swords/diamond_sword/0b1110000101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452184
-            },
-            "model": "item/swords/diamond_sword/0b0100010001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453176
-            },
-            "model": "item/swords/diamond_sword/0b0110001101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450944
-            },
-            "model": "item/swords/diamond_sword/0b0001110110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452416
-            },
-            "model": "item/swords/diamond_sword/0b0100101110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6454152
-            },
-            "model": "item/swords/diamond_sword/0b1000000111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452352
-            },
-            "model": "item/swords/diamond_sword/0b0100100110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6456144
-            },
-            "model": "item/swords/diamond_sword/0b1100000000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451024
-            },
-            "model": "item/swords/diamond_sword/0b0010000000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452832
-            },
-            "model": "item/swords/diamond_sword/0b0101100010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6454912
-            },
-            "model": "item/swords/diamond_sword/0b1001100110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453464
-            },
-            "model": "item/swords/diamond_sword/0b0110110001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6455152
-            },
-            "model": "item/swords/diamond_sword/0b1010000100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451064
-            },
-            "model": "item/swords/diamond_sword/0b0010000101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453144
-            },
-            "model": "item/swords/diamond_sword/0b0110001001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6454864
-            },
-            "model": "item/swords/diamond_sword/0b1001100000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450808
-            },
-            "model": "item/swords/diamond_sword/0b0001100101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6457224
-            },
-            "model": "item/swords/diamond_sword/0b1110000111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453240
-            },
-            "model": "item/swords/diamond_sword/0b0110010101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452344
-            },
-            "model": "item/swords/diamond_sword/0b0100100101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451976
-            },
-            "model": "item/swords/diamond_sword/0b0011110111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451448
-            },
-            "model": "item/swords/diamond_sword/0b0010110101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450544
-            },
-            "model": "item/swords/diamond_sword/0b0001000100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451816
-            },
-            "model": "item/swords/diamond_sword/0b0011100011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6455920
-            },
-            "model": "item/swords/diamond_sword/0b1011100100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6455128
-            },
-            "model": "item/swords/diamond_sword/0b1010000001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452920
-            },
-            "model": "item/swords/diamond_sword/0b0101101101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452616
-            },
-            "model": "item/swords/diamond_sword/0b0101000111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450264
-            },
-            "model": "item/swords/diamond_sword/0b0000100001000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6455424
-            },
-            "model": "item/swords/diamond_sword/0b1010100110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450848
-            },
-            "model": "item/swords/diamond_sword/0b0001101010000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6457216
-            },
-            "model": "item/swords/diamond_sword/0b1110000110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6454400
-            },
-            "model": "item/swords/diamond_sword/0b1000100110000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453992
-            },
-            "model": "item/swords/diamond_sword/0b0111110011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6457456
-            },
-            "model": "item/swords/diamond_sword/0b1110100100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453960
-            },
-            "model": "item/swords/diamond_sword/0b0111101111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453200
-            },
-            "model": "item/swords/diamond_sword/0b0110010000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450888
-            },
-            "model": "item/swords/diamond_sword/0b0001101111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451704
-            },
-            "model": "item/swords/diamond_sword/0b0011010101000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6454896
-            },
-            "model": "item/swords/diamond_sword/0b1001100100000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451944
-            },
-            "model": "item/swords/diamond_sword/0b0011110011000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6457992
-            },
-            "model": "item/swords/diamond_sword/0b1111100111000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453840
-            },
-            "model": "item/swords/diamond_sword/0b0111100000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6455168
-            },
-            "model": "item/swords/diamond_sword/0b1010000110000"
+            "model": "item/swords/diamond_sword/0b0000000101000"
         },
         {
             "predicate": {
@@ -2874,39 +42,45 @@
         },
         {
             "predicate": {
-                "custom_model_data": 6457480
+                "custom_model_data": 6450056
             },
-            "model": "item/swords/diamond_sword/0b1110100111000"
+            "model": "item/swords/diamond_sword/0b0000000111000"
         },
         {
             "predicate": {
-                "custom_model_data": 6454872
+                "custom_model_data": 6450064
             },
-            "model": "item/swords/diamond_sword/0b1001100001000"
+            "model": "item/swords/diamond_sword/0b0000001000000"
         },
         {
             "predicate": {
-                "custom_model_data": 6452960
+                "custom_model_data": 6450072
             },
-            "model": "item/swords/diamond_sword/0b0101110010000"
+            "model": "item/swords/diamond_sword/0b0000001001000"
         },
         {
             "predicate": {
-                "custom_model_data": 6453480
+                "custom_model_data": 6450080
             },
-            "model": "item/swords/diamond_sword/0b0110110011000"
+            "model": "item/swords/diamond_sword/0b0000001010000"
         },
         {
             "predicate": {
-                "custom_model_data": 6451712
+                "custom_model_data": 6450088
             },
-            "model": "item/swords/diamond_sword/0b0011010110000"
+            "model": "item/swords/diamond_sword/0b0000001011000"
         },
         {
             "predicate": {
-                "custom_model_data": 6452464
+                "custom_model_data": 6450096
             },
-            "model": "item/swords/diamond_sword/0b0100110100000"
+            "model": "item/swords/diamond_sword/0b0000001100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450104
+            },
+            "model": "item/swords/diamond_sword/0b0000001101000"
         },
         {
             "predicate": {
@@ -2922,117 +96,243 @@
         },
         {
             "predicate": {
-                "custom_model_data": 6451672
+                "custom_model_data": 6450128
             },
-            "model": "item/swords/diamond_sword/0b0011010001000"
+            "model": "item/swords/diamond_sword/0b0000010000000"
         },
         {
             "predicate": {
-                "custom_model_data": 6452560
+                "custom_model_data": 6450136
             },
-            "model": "item/swords/diamond_sword/0b0101000000000"
+            "model": "item/swords/diamond_sword/0b0000010001000"
         },
         {
             "predicate": {
-                "custom_model_data": 6450896
+                "custom_model_data": 6450144
             },
-            "model": "item/swords/diamond_sword/0b0001110000000"
+            "model": "item/swords/diamond_sword/0b0000010010000"
         },
         {
             "predicate": {
-                "custom_model_data": 6452232
+                "custom_model_data": 6450152
             },
-            "model": "item/swords/diamond_sword/0b0100010111000"
+            "model": "item/swords/diamond_sword/0b0000010011000"
         },
         {
             "predicate": {
-                "custom_model_data": 6455896
+                "custom_model_data": 6450160
             },
-            "model": "item/swords/diamond_sword/0b1011100001000"
+            "model": "item/swords/diamond_sword/0b0000010100000"
         },
         {
             "predicate": {
-                "custom_model_data": 6452584
+                "custom_model_data": 6450168
             },
-            "model": "item/swords/diamond_sword/0b0101000011000"
+            "model": "item/swords/diamond_sword/0b0000010101000"
         },
         {
             "predicate": {
-                "custom_model_data": 6452568
+                "custom_model_data": 6450176
             },
-            "model": "item/swords/diamond_sword/0b0101000001000"
+            "model": "item/swords/diamond_sword/0b0000010110000"
         },
         {
             "predicate": {
-                "custom_model_data": 6451456
+                "custom_model_data": 6450184
             },
-            "model": "item/swords/diamond_sword/0b0010110110000"
+            "model": "item/swords/diamond_sword/0b0000010111000"
         },
         {
             "predicate": {
-                "custom_model_data": 6453328
+                "custom_model_data": 6450256
             },
-            "model": "item/swords/diamond_sword/0b0110100000000"
+            "model": "item/swords/diamond_sword/0b0000100000000"
         },
         {
             "predicate": {
-                "custom_model_data": 6455648
+                "custom_model_data": 6450264
             },
-            "model": "item/swords/diamond_sword/0b1011000010000"
+            "model": "item/swords/diamond_sword/0b0000100001000"
         },
         {
             "predicate": {
-                "custom_model_data": 6451128
+                "custom_model_data": 6450272
             },
-            "model": "item/swords/diamond_sword/0b0010001101000"
+            "model": "item/swords/diamond_sword/0b0000100010000"
         },
         {
             "predicate": {
-                "custom_model_data": 6453160
+                "custom_model_data": 6450280
             },
-            "model": "item/swords/diamond_sword/0b0110001011000"
+            "model": "item/swords/diamond_sword/0b0000100011000"
         },
         {
             "predicate": {
-                "custom_model_data": 6456184
+                "custom_model_data": 6450288
             },
-            "model": "item/swords/diamond_sword/0b1100000101000"
+            "model": "item/swords/diamond_sword/0b0000100100000"
         },
         {
             "predicate": {
-                "custom_model_data": 6456704
+                "custom_model_data": 6450296
             },
-            "model": "item/swords/diamond_sword/0b1101000110000"
+            "model": "item/swords/diamond_sword/0b0000100101000"
         },
         {
             "predicate": {
-                "custom_model_data": 6452176
+                "custom_model_data": 6450304
             },
-            "model": "item/swords/diamond_sword/0b0100010000000"
+            "model": "item/swords/diamond_sword/0b0000100110000"
         },
         {
             "predicate": {
-                "custom_model_data": 6452624
+                "custom_model_data": 6450312
             },
-            "model": "item/swords/diamond_sword/0b0101001000000"
+            "model": "item/swords/diamond_sword/0b0000100111000"
         },
         {
             "predicate": {
-                "custom_model_data": 6453584
+                "custom_model_data": 6450320
             },
-            "model": "item/swords/diamond_sword/0b0111000000000"
+            "model": "item/swords/diamond_sword/0b0000101000000"
         },
         {
             "predicate": {
-                "custom_model_data": 6450096
+                "custom_model_data": 6450328
             },
-            "model": "item/swords/diamond_sword/0b0000001100000"
+            "model": "item/swords/diamond_sword/0b0000101001000"
         },
         {
             "predicate": {
-                "custom_model_data": 6451880
+                "custom_model_data": 6450336
             },
-            "model": "item/swords/diamond_sword/0b0011101011000"
+            "model": "item/swords/diamond_sword/0b0000101010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450344
+            },
+            "model": "item/swords/diamond_sword/0b0000101011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450352
+            },
+            "model": "item/swords/diamond_sword/0b0000101100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450360
+            },
+            "model": "item/swords/diamond_sword/0b0000101101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450368
+            },
+            "model": "item/swords/diamond_sword/0b0000101110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450376
+            },
+            "model": "item/swords/diamond_sword/0b0000101111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450384
+            },
+            "model": "item/swords/diamond_sword/0b0000110000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450392
+            },
+            "model": "item/swords/diamond_sword/0b0000110001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450400
+            },
+            "model": "item/swords/diamond_sword/0b0000110010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450408
+            },
+            "model": "item/swords/diamond_sword/0b0000110011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450416
+            },
+            "model": "item/swords/diamond_sword/0b0000110100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450424
+            },
+            "model": "item/swords/diamond_sword/0b0000110101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450432
+            },
+            "model": "item/swords/diamond_sword/0b0000110110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450440
+            },
+            "model": "item/swords/diamond_sword/0b0000110111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450512
+            },
+            "model": "item/swords/diamond_sword/0b0001000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450520
+            },
+            "model": "item/swords/diamond_sword/0b0001000001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450528
+            },
+            "model": "item/swords/diamond_sword/0b0001000010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450536
+            },
+            "model": "item/swords/diamond_sword/0b0001000011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450544
+            },
+            "model": "item/swords/diamond_sword/0b0001000100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450552
+            },
+            "model": "item/swords/diamond_sword/0b0001000101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450560
+            },
+            "model": "item/swords/diamond_sword/0b0001000110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450568
+            },
+            "model": "item/swords/diamond_sword/0b0001000111000"
         },
         {
             "predicate": {
@@ -3042,15 +342,453 @@
         },
         {
             "predicate": {
-                "custom_model_data": 6451872
+                "custom_model_data": 6450584
             },
-            "model": "item/swords/diamond_sword/0b0011101010000"
+            "model": "item/swords/diamond_sword/0b0001001001000"
         },
         {
             "predicate": {
-                "custom_model_data": 6454120
+                "custom_model_data": 6450592
             },
-            "model": "item/swords/diamond_sword/0b1000000011000"
+            "model": "item/swords/diamond_sword/0b0001001010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450600
+            },
+            "model": "item/swords/diamond_sword/0b0001001011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450608
+            },
+            "model": "item/swords/diamond_sword/0b0001001100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450616
+            },
+            "model": "item/swords/diamond_sword/0b0001001101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450624
+            },
+            "model": "item/swords/diamond_sword/0b0001001110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450632
+            },
+            "model": "item/swords/diamond_sword/0b0001001111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450640
+            },
+            "model": "item/swords/diamond_sword/0b0001010000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450648
+            },
+            "model": "item/swords/diamond_sword/0b0001010001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450656
+            },
+            "model": "item/swords/diamond_sword/0b0001010010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450664
+            },
+            "model": "item/swords/diamond_sword/0b0001010011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450672
+            },
+            "model": "item/swords/diamond_sword/0b0001010100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450680
+            },
+            "model": "item/swords/diamond_sword/0b0001010101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450688
+            },
+            "model": "item/swords/diamond_sword/0b0001010110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450696
+            },
+            "model": "item/swords/diamond_sword/0b0001010111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450768
+            },
+            "model": "item/swords/diamond_sword/0b0001100000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450776
+            },
+            "model": "item/swords/diamond_sword/0b0001100001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450784
+            },
+            "model": "item/swords/diamond_sword/0b0001100010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450792
+            },
+            "model": "item/swords/diamond_sword/0b0001100011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450800
+            },
+            "model": "item/swords/diamond_sword/0b0001100100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450808
+            },
+            "model": "item/swords/diamond_sword/0b0001100101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450816
+            },
+            "model": "item/swords/diamond_sword/0b0001100110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450824
+            },
+            "model": "item/swords/diamond_sword/0b0001100111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450832
+            },
+            "model": "item/swords/diamond_sword/0b0001101000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450840
+            },
+            "model": "item/swords/diamond_sword/0b0001101001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450848
+            },
+            "model": "item/swords/diamond_sword/0b0001101010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450856
+            },
+            "model": "item/swords/diamond_sword/0b0001101011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450864
+            },
+            "model": "item/swords/diamond_sword/0b0001101100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450872
+            },
+            "model": "item/swords/diamond_sword/0b0001101101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450880
+            },
+            "model": "item/swords/diamond_sword/0b0001101110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450888
+            },
+            "model": "item/swords/diamond_sword/0b0001101111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450896
+            },
+            "model": "item/swords/diamond_sword/0b0001110000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450904
+            },
+            "model": "item/swords/diamond_sword/0b0001110001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450912
+            },
+            "model": "item/swords/diamond_sword/0b0001110010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450920
+            },
+            "model": "item/swords/diamond_sword/0b0001110011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450928
+            },
+            "model": "item/swords/diamond_sword/0b0001110100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450936
+            },
+            "model": "item/swords/diamond_sword/0b0001110101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450944
+            },
+            "model": "item/swords/diamond_sword/0b0001110110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450952
+            },
+            "model": "item/swords/diamond_sword/0b0001110111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451024
+            },
+            "model": "item/swords/diamond_sword/0b0010000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451032
+            },
+            "model": "item/swords/diamond_sword/0b0010000001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451040
+            },
+            "model": "item/swords/diamond_sword/0b0010000010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451048
+            },
+            "model": "item/swords/diamond_sword/0b0010000011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451056
+            },
+            "model": "item/swords/diamond_sword/0b0010000100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451064
+            },
+            "model": "item/swords/diamond_sword/0b0010000101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451072
+            },
+            "model": "item/swords/diamond_sword/0b0010000110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451080
+            },
+            "model": "item/swords/diamond_sword/0b0010000111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451088
+            },
+            "model": "item/swords/diamond_sword/0b0010001000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451096
+            },
+            "model": "item/swords/diamond_sword/0b0010001001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451104
+            },
+            "model": "item/swords/diamond_sword/0b0010001010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451112
+            },
+            "model": "item/swords/diamond_sword/0b0010001011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451120
+            },
+            "model": "item/swords/diamond_sword/0b0010001100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451128
+            },
+            "model": "item/swords/diamond_sword/0b0010001101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451136
+            },
+            "model": "item/swords/diamond_sword/0b0010001110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451144
+            },
+            "model": "item/swords/diamond_sword/0b0010001111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451152
+            },
+            "model": "item/swords/diamond_sword/0b0010010000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451160
+            },
+            "model": "item/swords/diamond_sword/0b0010010001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451168
+            },
+            "model": "item/swords/diamond_sword/0b0010010010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451176
+            },
+            "model": "item/swords/diamond_sword/0b0010010011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451184
+            },
+            "model": "item/swords/diamond_sword/0b0010010100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451192
+            },
+            "model": "item/swords/diamond_sword/0b0010010101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451200
+            },
+            "model": "item/swords/diamond_sword/0b0010010110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451208
+            },
+            "model": "item/swords/diamond_sword/0b0010010111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451280
+            },
+            "model": "item/swords/diamond_sword/0b0010100000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451288
+            },
+            "model": "item/swords/diamond_sword/0b0010100001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451296
+            },
+            "model": "item/swords/diamond_sword/0b0010100010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451304
+            },
+            "model": "item/swords/diamond_sword/0b0010100011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451312
+            },
+            "model": "item/swords/diamond_sword/0b0010100100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451320
+            },
+            "model": "item/swords/diamond_sword/0b0010100101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451328
+            },
+            "model": "item/swords/diamond_sword/0b0010100110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451336
+            },
+            "model": "item/swords/diamond_sword/0b0010100111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451344
+            },
+            "model": "item/swords/diamond_sword/0b0010101000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451352
+            },
+            "model": "item/swords/diamond_sword/0b0010101001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451360
+            },
+            "model": "item/swords/diamond_sword/0b0010101010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451368
+            },
+            "model": "item/swords/diamond_sword/0b0010101011000"
         },
         {
             "predicate": {
@@ -3060,15 +798,2277 @@
         },
         {
             "predicate": {
+                "custom_model_data": 6451384
+            },
+            "model": "item/swords/diamond_sword/0b0010101101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451392
+            },
+            "model": "item/swords/diamond_sword/0b0010101110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451400
+            },
+            "model": "item/swords/diamond_sword/0b0010101111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451408
+            },
+            "model": "item/swords/diamond_sword/0b0010110000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451416
+            },
+            "model": "item/swords/diamond_sword/0b0010110001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451424
+            },
+            "model": "item/swords/diamond_sword/0b0010110010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451432
+            },
+            "model": "item/swords/diamond_sword/0b0010110011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451440
+            },
+            "model": "item/swords/diamond_sword/0b0010110100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451448
+            },
+            "model": "item/swords/diamond_sword/0b0010110101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451456
+            },
+            "model": "item/swords/diamond_sword/0b0010110110000"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 6451464
             },
             "model": "item/swords/diamond_sword/0b0010110111000"
         },
         {
             "predicate": {
-                "custom_model_data": 6450104
+                "custom_model_data": 6451536
             },
-            "model": "item/swords/diamond_sword/0b0000001101000"
+            "model": "item/swords/diamond_sword/0b0011000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451544
+            },
+            "model": "item/swords/diamond_sword/0b0011000001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451552
+            },
+            "model": "item/swords/diamond_sword/0b0011000010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451560
+            },
+            "model": "item/swords/diamond_sword/0b0011000011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451568
+            },
+            "model": "item/swords/diamond_sword/0b0011000100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451576
+            },
+            "model": "item/swords/diamond_sword/0b0011000101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451584
+            },
+            "model": "item/swords/diamond_sword/0b0011000110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451592
+            },
+            "model": "item/swords/diamond_sword/0b0011000111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451600
+            },
+            "model": "item/swords/diamond_sword/0b0011001000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451608
+            },
+            "model": "item/swords/diamond_sword/0b0011001001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451616
+            },
+            "model": "item/swords/diamond_sword/0b0011001010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451624
+            },
+            "model": "item/swords/diamond_sword/0b0011001011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451632
+            },
+            "model": "item/swords/diamond_sword/0b0011001100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451640
+            },
+            "model": "item/swords/diamond_sword/0b0011001101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451648
+            },
+            "model": "item/swords/diamond_sword/0b0011001110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451656
+            },
+            "model": "item/swords/diamond_sword/0b0011001111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451664
+            },
+            "model": "item/swords/diamond_sword/0b0011010000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451672
+            },
+            "model": "item/swords/diamond_sword/0b0011010001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451680
+            },
+            "model": "item/swords/diamond_sword/0b0011010010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451688
+            },
+            "model": "item/swords/diamond_sword/0b0011010011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451696
+            },
+            "model": "item/swords/diamond_sword/0b0011010100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451704
+            },
+            "model": "item/swords/diamond_sword/0b0011010101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451712
+            },
+            "model": "item/swords/diamond_sword/0b0011010110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451720
+            },
+            "model": "item/swords/diamond_sword/0b0011010111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451792
+            },
+            "model": "item/swords/diamond_sword/0b0011100000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451800
+            },
+            "model": "item/swords/diamond_sword/0b0011100001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451808
+            },
+            "model": "item/swords/diamond_sword/0b0011100010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451816
+            },
+            "model": "item/swords/diamond_sword/0b0011100011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451824
+            },
+            "model": "item/swords/diamond_sword/0b0011100100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451832
+            },
+            "model": "item/swords/diamond_sword/0b0011100101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451840
+            },
+            "model": "item/swords/diamond_sword/0b0011100110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451848
+            },
+            "model": "item/swords/diamond_sword/0b0011100111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451856
+            },
+            "model": "item/swords/diamond_sword/0b0011101000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451864
+            },
+            "model": "item/swords/diamond_sword/0b0011101001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451872
+            },
+            "model": "item/swords/diamond_sword/0b0011101010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451880
+            },
+            "model": "item/swords/diamond_sword/0b0011101011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451888
+            },
+            "model": "item/swords/diamond_sword/0b0011101100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451896
+            },
+            "model": "item/swords/diamond_sword/0b0011101101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451904
+            },
+            "model": "item/swords/diamond_sword/0b0011101110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451912
+            },
+            "model": "item/swords/diamond_sword/0b0011101111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451920
+            },
+            "model": "item/swords/diamond_sword/0b0011110000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451928
+            },
+            "model": "item/swords/diamond_sword/0b0011110001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451936
+            },
+            "model": "item/swords/diamond_sword/0b0011110010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451944
+            },
+            "model": "item/swords/diamond_sword/0b0011110011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451952
+            },
+            "model": "item/swords/diamond_sword/0b0011110100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451960
+            },
+            "model": "item/swords/diamond_sword/0b0011110101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451968
+            },
+            "model": "item/swords/diamond_sword/0b0011110110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451976
+            },
+            "model": "item/swords/diamond_sword/0b0011110111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452048
+            },
+            "model": "item/swords/diamond_sword/0b0100000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452056
+            },
+            "model": "item/swords/diamond_sword/0b0100000001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452064
+            },
+            "model": "item/swords/diamond_sword/0b0100000010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452072
+            },
+            "model": "item/swords/diamond_sword/0b0100000011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452080
+            },
+            "model": "item/swords/diamond_sword/0b0100000100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452088
+            },
+            "model": "item/swords/diamond_sword/0b0100000101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452096
+            },
+            "model": "item/swords/diamond_sword/0b0100000110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452104
+            },
+            "model": "item/swords/diamond_sword/0b0100000111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452112
+            },
+            "model": "item/swords/diamond_sword/0b0100001000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452120
+            },
+            "model": "item/swords/diamond_sword/0b0100001001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452128
+            },
+            "model": "item/swords/diamond_sword/0b0100001010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452136
+            },
+            "model": "item/swords/diamond_sword/0b0100001011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452144
+            },
+            "model": "item/swords/diamond_sword/0b0100001100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452152
+            },
+            "model": "item/swords/diamond_sword/0b0100001101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452160
+            },
+            "model": "item/swords/diamond_sword/0b0100001110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452168
+            },
+            "model": "item/swords/diamond_sword/0b0100001111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452176
+            },
+            "model": "item/swords/diamond_sword/0b0100010000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452184
+            },
+            "model": "item/swords/diamond_sword/0b0100010001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452192
+            },
+            "model": "item/swords/diamond_sword/0b0100010010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452200
+            },
+            "model": "item/swords/diamond_sword/0b0100010011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452208
+            },
+            "model": "item/swords/diamond_sword/0b0100010100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452216
+            },
+            "model": "item/swords/diamond_sword/0b0100010101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452224
+            },
+            "model": "item/swords/diamond_sword/0b0100010110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452232
+            },
+            "model": "item/swords/diamond_sword/0b0100010111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452304
+            },
+            "model": "item/swords/diamond_sword/0b0100100000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452312
+            },
+            "model": "item/swords/diamond_sword/0b0100100001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452320
+            },
+            "model": "item/swords/diamond_sword/0b0100100010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452328
+            },
+            "model": "item/swords/diamond_sword/0b0100100011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452336
+            },
+            "model": "item/swords/diamond_sword/0b0100100100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452344
+            },
+            "model": "item/swords/diamond_sword/0b0100100101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452352
+            },
+            "model": "item/swords/diamond_sword/0b0100100110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452360
+            },
+            "model": "item/swords/diamond_sword/0b0100100111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452368
+            },
+            "model": "item/swords/diamond_sword/0b0100101000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452376
+            },
+            "model": "item/swords/diamond_sword/0b0100101001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452384
+            },
+            "model": "item/swords/diamond_sword/0b0100101010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452392
+            },
+            "model": "item/swords/diamond_sword/0b0100101011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452400
+            },
+            "model": "item/swords/diamond_sword/0b0100101100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452408
+            },
+            "model": "item/swords/diamond_sword/0b0100101101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452416
+            },
+            "model": "item/swords/diamond_sword/0b0100101110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452424
+            },
+            "model": "item/swords/diamond_sword/0b0100101111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452432
+            },
+            "model": "item/swords/diamond_sword/0b0100110000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452440
+            },
+            "model": "item/swords/diamond_sword/0b0100110001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452448
+            },
+            "model": "item/swords/diamond_sword/0b0100110010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452456
+            },
+            "model": "item/swords/diamond_sword/0b0100110011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452464
+            },
+            "model": "item/swords/diamond_sword/0b0100110100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452472
+            },
+            "model": "item/swords/diamond_sword/0b0100110101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452480
+            },
+            "model": "item/swords/diamond_sword/0b0100110110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452488
+            },
+            "model": "item/swords/diamond_sword/0b0100110111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452560
+            },
+            "model": "item/swords/diamond_sword/0b0101000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452568
+            },
+            "model": "item/swords/diamond_sword/0b0101000001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452576
+            },
+            "model": "item/swords/diamond_sword/0b0101000010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452584
+            },
+            "model": "item/swords/diamond_sword/0b0101000011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452592
+            },
+            "model": "item/swords/diamond_sword/0b0101000100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452600
+            },
+            "model": "item/swords/diamond_sword/0b0101000101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452608
+            },
+            "model": "item/swords/diamond_sword/0b0101000110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452616
+            },
+            "model": "item/swords/diamond_sword/0b0101000111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452624
+            },
+            "model": "item/swords/diamond_sword/0b0101001000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452632
+            },
+            "model": "item/swords/diamond_sword/0b0101001001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452640
+            },
+            "model": "item/swords/diamond_sword/0b0101001010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452648
+            },
+            "model": "item/swords/diamond_sword/0b0101001011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452656
+            },
+            "model": "item/swords/diamond_sword/0b0101001100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452664
+            },
+            "model": "item/swords/diamond_sword/0b0101001101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452672
+            },
+            "model": "item/swords/diamond_sword/0b0101001110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452680
+            },
+            "model": "item/swords/diamond_sword/0b0101001111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452688
+            },
+            "model": "item/swords/diamond_sword/0b0101010000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452696
+            },
+            "model": "item/swords/diamond_sword/0b0101010001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452704
+            },
+            "model": "item/swords/diamond_sword/0b0101010010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452712
+            },
+            "model": "item/swords/diamond_sword/0b0101010011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452720
+            },
+            "model": "item/swords/diamond_sword/0b0101010100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452728
+            },
+            "model": "item/swords/diamond_sword/0b0101010101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452736
+            },
+            "model": "item/swords/diamond_sword/0b0101010110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452744
+            },
+            "model": "item/swords/diamond_sword/0b0101010111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452816
+            },
+            "model": "item/swords/diamond_sword/0b0101100000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452824
+            },
+            "model": "item/swords/diamond_sword/0b0101100001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452832
+            },
+            "model": "item/swords/diamond_sword/0b0101100010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452840
+            },
+            "model": "item/swords/diamond_sword/0b0101100011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452848
+            },
+            "model": "item/swords/diamond_sword/0b0101100100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452856
+            },
+            "model": "item/swords/diamond_sword/0b0101100101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452864
+            },
+            "model": "item/swords/diamond_sword/0b0101100110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452872
+            },
+            "model": "item/swords/diamond_sword/0b0101100111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452880
+            },
+            "model": "item/swords/diamond_sword/0b0101101000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452888
+            },
+            "model": "item/swords/diamond_sword/0b0101101001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452896
+            },
+            "model": "item/swords/diamond_sword/0b0101101010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452904
+            },
+            "model": "item/swords/diamond_sword/0b0101101011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452912
+            },
+            "model": "item/swords/diamond_sword/0b0101101100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452920
+            },
+            "model": "item/swords/diamond_sword/0b0101101101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452928
+            },
+            "model": "item/swords/diamond_sword/0b0101101110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452936
+            },
+            "model": "item/swords/diamond_sword/0b0101101111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452944
+            },
+            "model": "item/swords/diamond_sword/0b0101110000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452952
+            },
+            "model": "item/swords/diamond_sword/0b0101110001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452960
+            },
+            "model": "item/swords/diamond_sword/0b0101110010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452968
+            },
+            "model": "item/swords/diamond_sword/0b0101110011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452976
+            },
+            "model": "item/swords/diamond_sword/0b0101110100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452984
+            },
+            "model": "item/swords/diamond_sword/0b0101110101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452992
+            },
+            "model": "item/swords/diamond_sword/0b0101110110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453000
+            },
+            "model": "item/swords/diamond_sword/0b0101110111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453072
+            },
+            "model": "item/swords/diamond_sword/0b0110000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453080
+            },
+            "model": "item/swords/diamond_sword/0b0110000001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453088
+            },
+            "model": "item/swords/diamond_sword/0b0110000010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453096
+            },
+            "model": "item/swords/diamond_sword/0b0110000011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453104
+            },
+            "model": "item/swords/diamond_sword/0b0110000100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453112
+            },
+            "model": "item/swords/diamond_sword/0b0110000101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453120
+            },
+            "model": "item/swords/diamond_sword/0b0110000110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453128
+            },
+            "model": "item/swords/diamond_sword/0b0110000111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453136
+            },
+            "model": "item/swords/diamond_sword/0b0110001000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453144
+            },
+            "model": "item/swords/diamond_sword/0b0110001001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453152
+            },
+            "model": "item/swords/diamond_sword/0b0110001010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453160
+            },
+            "model": "item/swords/diamond_sword/0b0110001011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453168
+            },
+            "model": "item/swords/diamond_sword/0b0110001100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453176
+            },
+            "model": "item/swords/diamond_sword/0b0110001101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453184
+            },
+            "model": "item/swords/diamond_sword/0b0110001110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453192
+            },
+            "model": "item/swords/diamond_sword/0b0110001111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453200
+            },
+            "model": "item/swords/diamond_sword/0b0110010000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453208
+            },
+            "model": "item/swords/diamond_sword/0b0110010001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453216
+            },
+            "model": "item/swords/diamond_sword/0b0110010010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453224
+            },
+            "model": "item/swords/diamond_sword/0b0110010011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453232
+            },
+            "model": "item/swords/diamond_sword/0b0110010100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453240
+            },
+            "model": "item/swords/diamond_sword/0b0110010101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453248
+            },
+            "model": "item/swords/diamond_sword/0b0110010110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453256
+            },
+            "model": "item/swords/diamond_sword/0b0110010111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453328
+            },
+            "model": "item/swords/diamond_sword/0b0110100000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453336
+            },
+            "model": "item/swords/diamond_sword/0b0110100001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453344
+            },
+            "model": "item/swords/diamond_sword/0b0110100010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453352
+            },
+            "model": "item/swords/diamond_sword/0b0110100011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453360
+            },
+            "model": "item/swords/diamond_sword/0b0110100100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453368
+            },
+            "model": "item/swords/diamond_sword/0b0110100101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453376
+            },
+            "model": "item/swords/diamond_sword/0b0110100110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453384
+            },
+            "model": "item/swords/diamond_sword/0b0110100111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453392
+            },
+            "model": "item/swords/diamond_sword/0b0110101000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453400
+            },
+            "model": "item/swords/diamond_sword/0b0110101001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453408
+            },
+            "model": "item/swords/diamond_sword/0b0110101010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453416
+            },
+            "model": "item/swords/diamond_sword/0b0110101011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453424
+            },
+            "model": "item/swords/diamond_sword/0b0110101100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453432
+            },
+            "model": "item/swords/diamond_sword/0b0110101101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453440
+            },
+            "model": "item/swords/diamond_sword/0b0110101110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453448
+            },
+            "model": "item/swords/diamond_sword/0b0110101111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453456
+            },
+            "model": "item/swords/diamond_sword/0b0110110000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453464
+            },
+            "model": "item/swords/diamond_sword/0b0110110001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453472
+            },
+            "model": "item/swords/diamond_sword/0b0110110010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453480
+            },
+            "model": "item/swords/diamond_sword/0b0110110011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453488
+            },
+            "model": "item/swords/diamond_sword/0b0110110100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453496
+            },
+            "model": "item/swords/diamond_sword/0b0110110101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453504
+            },
+            "model": "item/swords/diamond_sword/0b0110110110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453512
+            },
+            "model": "item/swords/diamond_sword/0b0110110111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453584
+            },
+            "model": "item/swords/diamond_sword/0b0111000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453592
+            },
+            "model": "item/swords/diamond_sword/0b0111000001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453600
+            },
+            "model": "item/swords/diamond_sword/0b0111000010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453608
+            },
+            "model": "item/swords/diamond_sword/0b0111000011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453616
+            },
+            "model": "item/swords/diamond_sword/0b0111000100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453624
+            },
+            "model": "item/swords/diamond_sword/0b0111000101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453632
+            },
+            "model": "item/swords/diamond_sword/0b0111000110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453640
+            },
+            "model": "item/swords/diamond_sword/0b0111000111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453648
+            },
+            "model": "item/swords/diamond_sword/0b0111001000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453656
+            },
+            "model": "item/swords/diamond_sword/0b0111001001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453664
+            },
+            "model": "item/swords/diamond_sword/0b0111001010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453672
+            },
+            "model": "item/swords/diamond_sword/0b0111001011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453680
+            },
+            "model": "item/swords/diamond_sword/0b0111001100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453688
+            },
+            "model": "item/swords/diamond_sword/0b0111001101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453696
+            },
+            "model": "item/swords/diamond_sword/0b0111001110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453704
+            },
+            "model": "item/swords/diamond_sword/0b0111001111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453712
+            },
+            "model": "item/swords/diamond_sword/0b0111010000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453720
+            },
+            "model": "item/swords/diamond_sword/0b0111010001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453728
+            },
+            "model": "item/swords/diamond_sword/0b0111010010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453736
+            },
+            "model": "item/swords/diamond_sword/0b0111010011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453744
+            },
+            "model": "item/swords/diamond_sword/0b0111010100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453752
+            },
+            "model": "item/swords/diamond_sword/0b0111010101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453760
+            },
+            "model": "item/swords/diamond_sword/0b0111010110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453768
+            },
+            "model": "item/swords/diamond_sword/0b0111010111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453840
+            },
+            "model": "item/swords/diamond_sword/0b0111100000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453848
+            },
+            "model": "item/swords/diamond_sword/0b0111100001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453856
+            },
+            "model": "item/swords/diamond_sword/0b0111100010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453864
+            },
+            "model": "item/swords/diamond_sword/0b0111100011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453872
+            },
+            "model": "item/swords/diamond_sword/0b0111100100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453880
+            },
+            "model": "item/swords/diamond_sword/0b0111100101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453888
+            },
+            "model": "item/swords/diamond_sword/0b0111100110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453896
+            },
+            "model": "item/swords/diamond_sword/0b0111100111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453904
+            },
+            "model": "item/swords/diamond_sword/0b0111101000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453912
+            },
+            "model": "item/swords/diamond_sword/0b0111101001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453920
+            },
+            "model": "item/swords/diamond_sword/0b0111101010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453928
+            },
+            "model": "item/swords/diamond_sword/0b0111101011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453936
+            },
+            "model": "item/swords/diamond_sword/0b0111101100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453944
+            },
+            "model": "item/swords/diamond_sword/0b0111101101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453952
+            },
+            "model": "item/swords/diamond_sword/0b0111101110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453960
+            },
+            "model": "item/swords/diamond_sword/0b0111101111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453968
+            },
+            "model": "item/swords/diamond_sword/0b0111110000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453976
+            },
+            "model": "item/swords/diamond_sword/0b0111110001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453984
+            },
+            "model": "item/swords/diamond_sword/0b0111110010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453992
+            },
+            "model": "item/swords/diamond_sword/0b0111110011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454000
+            },
+            "model": "item/swords/diamond_sword/0b0111110100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454008
+            },
+            "model": "item/swords/diamond_sword/0b0111110101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454016
+            },
+            "model": "item/swords/diamond_sword/0b0111110110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454024
+            },
+            "model": "item/swords/diamond_sword/0b0111110111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454096
+            },
+            "model": "item/swords/diamond_sword/0b1000000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454104
+            },
+            "model": "item/swords/diamond_sword/0b1000000001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454112
+            },
+            "model": "item/swords/diamond_sword/0b1000000010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454120
+            },
+            "model": "item/swords/diamond_sword/0b1000000011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454128
+            },
+            "model": "item/swords/diamond_sword/0b1000000100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454136
+            },
+            "model": "item/swords/diamond_sword/0b1000000101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454144
+            },
+            "model": "item/swords/diamond_sword/0b1000000110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454152
+            },
+            "model": "item/swords/diamond_sword/0b1000000111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454352
+            },
+            "model": "item/swords/diamond_sword/0b1000100000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454360
+            },
+            "model": "item/swords/diamond_sword/0b1000100001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454368
+            },
+            "model": "item/swords/diamond_sword/0b1000100010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454376
+            },
+            "model": "item/swords/diamond_sword/0b1000100011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454384
+            },
+            "model": "item/swords/diamond_sword/0b1000100100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454392
+            },
+            "model": "item/swords/diamond_sword/0b1000100101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454400
+            },
+            "model": "item/swords/diamond_sword/0b1000100110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454408
+            },
+            "model": "item/swords/diamond_sword/0b1000100111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454608
+            },
+            "model": "item/swords/diamond_sword/0b1001000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454616
+            },
+            "model": "item/swords/diamond_sword/0b1001000001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454624
+            },
+            "model": "item/swords/diamond_sword/0b1001000010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454632
+            },
+            "model": "item/swords/diamond_sword/0b1001000011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454640
+            },
+            "model": "item/swords/diamond_sword/0b1001000100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454648
+            },
+            "model": "item/swords/diamond_sword/0b1001000101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454656
+            },
+            "model": "item/swords/diamond_sword/0b1001000110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454664
+            },
+            "model": "item/swords/diamond_sword/0b1001000111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454864
+            },
+            "model": "item/swords/diamond_sword/0b1001100000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454872
+            },
+            "model": "item/swords/diamond_sword/0b1001100001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454880
+            },
+            "model": "item/swords/diamond_sword/0b1001100010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454888
+            },
+            "model": "item/swords/diamond_sword/0b1001100011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454896
+            },
+            "model": "item/swords/diamond_sword/0b1001100100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454904
+            },
+            "model": "item/swords/diamond_sword/0b1001100101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454912
+            },
+            "model": "item/swords/diamond_sword/0b1001100110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454920
+            },
+            "model": "item/swords/diamond_sword/0b1001100111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6455120
+            },
+            "model": "item/swords/diamond_sword/0b1010000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6455128
+            },
+            "model": "item/swords/diamond_sword/0b1010000001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6455136
+            },
+            "model": "item/swords/diamond_sword/0b1010000010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6455144
+            },
+            "model": "item/swords/diamond_sword/0b1010000011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6455152
+            },
+            "model": "item/swords/diamond_sword/0b1010000100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6455160
+            },
+            "model": "item/swords/diamond_sword/0b1010000101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6455168
+            },
+            "model": "item/swords/diamond_sword/0b1010000110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6455176
+            },
+            "model": "item/swords/diamond_sword/0b1010000111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6455376
+            },
+            "model": "item/swords/diamond_sword/0b1010100000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6455384
+            },
+            "model": "item/swords/diamond_sword/0b1010100001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6455392
+            },
+            "model": "item/swords/diamond_sword/0b1010100010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6455400
+            },
+            "model": "item/swords/diamond_sword/0b1010100011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6455408
+            },
+            "model": "item/swords/diamond_sword/0b1010100100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6455416
+            },
+            "model": "item/swords/diamond_sword/0b1010100101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6455424
+            },
+            "model": "item/swords/diamond_sword/0b1010100110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6455432
+            },
+            "model": "item/swords/diamond_sword/0b1010100111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6455632
+            },
+            "model": "item/swords/diamond_sword/0b1011000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6455640
+            },
+            "model": "item/swords/diamond_sword/0b1011000001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6455648
+            },
+            "model": "item/swords/diamond_sword/0b1011000010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6455656
+            },
+            "model": "item/swords/diamond_sword/0b1011000011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6455664
+            },
+            "model": "item/swords/diamond_sword/0b1011000100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6455672
+            },
+            "model": "item/swords/diamond_sword/0b1011000101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6455680
+            },
+            "model": "item/swords/diamond_sword/0b1011000110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6455688
+            },
+            "model": "item/swords/diamond_sword/0b1011000111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6455888
+            },
+            "model": "item/swords/diamond_sword/0b1011100000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6455896
+            },
+            "model": "item/swords/diamond_sword/0b1011100001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6455904
+            },
+            "model": "item/swords/diamond_sword/0b1011100010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6455912
+            },
+            "model": "item/swords/diamond_sword/0b1011100011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6455920
+            },
+            "model": "item/swords/diamond_sword/0b1011100100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6455928
+            },
+            "model": "item/swords/diamond_sword/0b1011100101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6455936
+            },
+            "model": "item/swords/diamond_sword/0b1011100110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6455944
+            },
+            "model": "item/swords/diamond_sword/0b1011100111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6456144
+            },
+            "model": "item/swords/diamond_sword/0b1100000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6456152
+            },
+            "model": "item/swords/diamond_sword/0b1100000001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6456160
+            },
+            "model": "item/swords/diamond_sword/0b1100000010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6456168
+            },
+            "model": "item/swords/diamond_sword/0b1100000011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6456176
+            },
+            "model": "item/swords/diamond_sword/0b1100000100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6456184
+            },
+            "model": "item/swords/diamond_sword/0b1100000101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6456192
+            },
+            "model": "item/swords/diamond_sword/0b1100000110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6456200
+            },
+            "model": "item/swords/diamond_sword/0b1100000111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6456400
+            },
+            "model": "item/swords/diamond_sword/0b1100100000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6456408
+            },
+            "model": "item/swords/diamond_sword/0b1100100001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6456416
+            },
+            "model": "item/swords/diamond_sword/0b1100100010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6456424
+            },
+            "model": "item/swords/diamond_sword/0b1100100011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6456432
+            },
+            "model": "item/swords/diamond_sword/0b1100100100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6456440
+            },
+            "model": "item/swords/diamond_sword/0b1100100101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6456448
+            },
+            "model": "item/swords/diamond_sword/0b1100100110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6456456
+            },
+            "model": "item/swords/diamond_sword/0b1100100111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6456656
+            },
+            "model": "item/swords/diamond_sword/0b1101000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6456664
+            },
+            "model": "item/swords/diamond_sword/0b1101000001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6456672
+            },
+            "model": "item/swords/diamond_sword/0b1101000010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6456680
+            },
+            "model": "item/swords/diamond_sword/0b1101000011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6456688
+            },
+            "model": "item/swords/diamond_sword/0b1101000100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6456696
+            },
+            "model": "item/swords/diamond_sword/0b1101000101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6456704
+            },
+            "model": "item/swords/diamond_sword/0b1101000110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6456712
+            },
+            "model": "item/swords/diamond_sword/0b1101000111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6456912
+            },
+            "model": "item/swords/diamond_sword/0b1101100000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6456920
+            },
+            "model": "item/swords/diamond_sword/0b1101100001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6456928
+            },
+            "model": "item/swords/diamond_sword/0b1101100010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6456936
+            },
+            "model": "item/swords/diamond_sword/0b1101100011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6456944
+            },
+            "model": "item/swords/diamond_sword/0b1101100100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6456952
+            },
+            "model": "item/swords/diamond_sword/0b1101100101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6456960
+            },
+            "model": "item/swords/diamond_sword/0b1101100110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6456968
+            },
+            "model": "item/swords/diamond_sword/0b1101100111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6457168
+            },
+            "model": "item/swords/diamond_sword/0b1110000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6457176
+            },
+            "model": "item/swords/diamond_sword/0b1110000001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6457184
+            },
+            "model": "item/swords/diamond_sword/0b1110000010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6457192
+            },
+            "model": "item/swords/diamond_sword/0b1110000011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6457200
+            },
+            "model": "item/swords/diamond_sword/0b1110000100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6457208
+            },
+            "model": "item/swords/diamond_sword/0b1110000101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6457216
+            },
+            "model": "item/swords/diamond_sword/0b1110000110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6457224
+            },
+            "model": "item/swords/diamond_sword/0b1110000111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6457424
+            },
+            "model": "item/swords/diamond_sword/0b1110100000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6457432
+            },
+            "model": "item/swords/diamond_sword/0b1110100001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6457440
+            },
+            "model": "item/swords/diamond_sword/0b1110100010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6457448
+            },
+            "model": "item/swords/diamond_sword/0b1110100011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6457456
+            },
+            "model": "item/swords/diamond_sword/0b1110100100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6457464
+            },
+            "model": "item/swords/diamond_sword/0b1110100101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6457472
+            },
+            "model": "item/swords/diamond_sword/0b1110100110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6457480
+            },
+            "model": "item/swords/diamond_sword/0b1110100111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6457680
+            },
+            "model": "item/swords/diamond_sword/0b1111000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6457688
+            },
+            "model": "item/swords/diamond_sword/0b1111000001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6457696
+            },
+            "model": "item/swords/diamond_sword/0b1111000010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6457704
+            },
+            "model": "item/swords/diamond_sword/0b1111000011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6457712
+            },
+            "model": "item/swords/diamond_sword/0b1111000100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6457720
+            },
+            "model": "item/swords/diamond_sword/0b1111000101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6457728
+            },
+            "model": "item/swords/diamond_sword/0b1111000110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6457736
+            },
+            "model": "item/swords/diamond_sword/0b1111000111000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6457936
+            },
+            "model": "item/swords/diamond_sword/0b1111100000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6457944
+            },
+            "model": "item/swords/diamond_sword/0b1111100001000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6457952
+            },
+            "model": "item/swords/diamond_sword/0b1111100010000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6457960
+            },
+            "model": "item/swords/diamond_sword/0b1111100011000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6457968
+            },
+            "model": "item/swords/diamond_sword/0b1111100100000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6457976
+            },
+            "model": "item/swords/diamond_sword/0b1111100101000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6457984
+            },
+            "model": "item/swords/diamond_sword/0b1111100110000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6457992
+            },
+            "model": "item/swords/diamond_sword/0b1111100111000"
         }
     ]
 }

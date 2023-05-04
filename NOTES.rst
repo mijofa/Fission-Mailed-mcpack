@@ -3,12 +3,19 @@ Move the CIT json files into position for custom-model-data with bitmasks (this 
     cd assets/minecraft/optifine/cit/enchs
     find * -iname '*.json' -not -iname 'pumpkin*' -not -iname 'crossbow*' -not -iname 'shield*' -not -iname 'fishing*' -not -iname 'trident*' | while read optifinepath ; do item_name="${optifinepath##*/}" enchants="${optifinepath#*/}" ; item_name="${item_name%.*}" enchants=( $(sed 's/^.\///;s/[0-9]//g;s/\(\/[xz]\)\?\/[^\/]*.json//g;s/\// /g;s/vanising/vanishing/' <<< "$enchants") ) ; newpath="../../../models/item/${optifinepath%%/*}/$(python3 ~/vcs/Fission-Mailed-mcpack/enchants_to_bitmask.py "$item_name" "${enchants[@]}").json" ; mkdir -p "${newpath%/*}" ; git mv "$optifinepath" "$newpath" ; echo git rm --ignore-unmatch "${optifinepath%.json}.properties" ; done
 
+Python sort key function for the below::
+
+     def sort_key(i):
+         """This data **must** be sorted, because Minecraft is dumb."""
+         return i['predicate'].get('custom_model_data', 0), i['model']
+
 Creating the item files themselves (Python used because I couldn't do the binary2decimal conversion in Bash)::
 
     for material in ['wooden','stone','iron','gold','diamond','netherite']:
       for item in ['axe','pickaxe','shovel','sword','hoe']:
         data = {"parent": f"minecraft:item/{item}","textures":{"base":f"item/{material}_{item}"}}
         data['overrides'] = [{"predicate": {"custom_model_data": 6450000 + int(p.name.split('.')[0], 2)}, "model": 'item/'+str(p)[:-5]} for p in pathlib.Path('.').glob(f'*/{material}_{item}/0b*.json')]
+        data['overrides'].sort(key=sort_key)
         with pathlib.Path(f'./{material}_{item}.json').open('w') as f:
           json.dump(data, f, indent=4)
 
@@ -31,6 +38,8 @@ Same again, but specifically for bows, since their animation is a bit more compl
         data['overrides'].append({"predicate": {"custom_model_data": custom_model_data,"pulling":1}, "model": 'item/'+str(p)[:-5]})
         data['overrides'].append({"predicate": {"custom_model_data": custom_model_data,"pulling":1,"pull":0.65}, "model": 'item/'+str(p)[:-5].replace('bow_pulling_0', 'bow_pulling_1')})
         data['overrides'].append({"predicate": {"custom_model_data": custom_model_data,"pulling":1,"pull":0.9}, "model": 'item/'+str(p)[:-5].replace('bow_pulling_0', 'bow_pulling_2')})
+
+    data['overrides'].sort(key=sort_key)
     with pathlib.Path(f'./bow.json').open('w') as f:
       json.dump(data, f, indent=4)
 

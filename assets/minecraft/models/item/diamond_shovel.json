@@ -6,15 +6,27 @@
     "overrides": [
         {
             "predicate": {
-                "custom_model_data": 6454224
+                "custom_model_data": 6450128
             },
-            "model": "item/shovels/diamond_shovel/0b1000010000000"
+            "model": "item/shovels/diamond_shovel/0b0000010000000"
         },
         {
             "predicate": {
-                "custom_model_data": 6457552
+                "custom_model_data": 6450256
             },
-            "model": "item/shovels/diamond_shovel/0b1110110000000"
+            "model": "item/shovels/diamond_shovel/0b0000100000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450384
+            },
+            "model": "item/shovels/diamond_shovel/0b0000110000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450512
+            },
+            "model": "item/shovels/diamond_shovel/0b0001000000000"
         },
         {
             "predicate": {
@@ -24,15 +36,111 @@
         },
         {
             "predicate": {
+                "custom_model_data": 6450768
+            },
+            "model": "item/shovels/diamond_shovel/0b0001100000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6450896
+            },
+            "model": "item/shovels/diamond_shovel/0b0001110000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451024
+            },
+            "model": "item/shovels/diamond_shovel/0b0010000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451152
+            },
+            "model": "item/shovels/diamond_shovel/0b0010010000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451280
+            },
+            "model": "item/shovels/diamond_shovel/0b0010100000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451408
+            },
+            "model": "item/shovels/diamond_shovel/0b0010110000000"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 6451536
             },
             "model": "item/shovels/diamond_shovel/0b0011000000000"
         },
         {
             "predicate": {
-                "custom_model_data": 6456528
+                "custom_model_data": 6451664
             },
-            "model": "item/shovels/diamond_shovel/0b1100110000000"
+            "model": "item/shovels/diamond_shovel/0b0011010000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451792
+            },
+            "model": "item/shovels/diamond_shovel/0b0011100000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451920
+            },
+            "model": "item/shovels/diamond_shovel/0b0011110000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452048
+            },
+            "model": "item/shovels/diamond_shovel/0b0100000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452176
+            },
+            "model": "item/shovels/diamond_shovel/0b0100010000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452304
+            },
+            "model": "item/shovels/diamond_shovel/0b0100100000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452432
+            },
+            "model": "item/shovels/diamond_shovel/0b0100110000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453072
+            },
+            "model": "item/shovels/diamond_shovel/0b0110000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453200
+            },
+            "model": "item/shovels/diamond_shovel/0b0110010000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453328
+            },
+            "model": "item/shovels/diamond_shovel/0b0110100000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453456
+            },
+            "model": "item/shovels/diamond_shovel/0b0110110000000"
         },
         {
             "predicate": {
@@ -42,9 +150,45 @@
         },
         {
             "predicate": {
-                "custom_model_data": 6452048
+                "custom_model_data": 6454224
             },
-            "model": "item/shovels/diamond_shovel/0b0100000000000"
+            "model": "item/shovels/diamond_shovel/0b1000010000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454352
+            },
+            "model": "item/shovels/diamond_shovel/0b1000100000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454480
+            },
+            "model": "item/shovels/diamond_shovel/0b1000110000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454608
+            },
+            "model": "item/shovels/diamond_shovel/0b1001000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454736
+            },
+            "model": "item/shovels/diamond_shovel/0b1001010000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454864
+            },
+            "model": "item/shovels/diamond_shovel/0b1001100000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454992
+            },
+            "model": "item/shovels/diamond_shovel/0b1001110000000"
         },
         {
             "predicate": {
@@ -60,123 +204,15 @@
         },
         {
             "predicate": {
-                "custom_model_data": 6451664
+                "custom_model_data": 6455376
             },
-            "model": "item/shovels/diamond_shovel/0b0011010000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6457424
-            },
-            "model": "item/shovels/diamond_shovel/0b1110100000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6457168
-            },
-            "model": "item/shovels/diamond_shovel/0b1110000000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6456016
-            },
-            "model": "item/shovels/diamond_shovel/0b1011110000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450384
-            },
-            "model": "item/shovels/diamond_shovel/0b0000110000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6457296
-            },
-            "model": "item/shovels/diamond_shovel/0b1110010000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451280
-            },
-            "model": "item/shovels/diamond_shovel/0b0010100000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452304
-            },
-            "model": "item/shovels/diamond_shovel/0b0100100000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451152
-            },
-            "model": "item/shovels/diamond_shovel/0b0010010000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6455888
-            },
-            "model": "item/shovels/diamond_shovel/0b1011100000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451792
-            },
-            "model": "item/shovels/diamond_shovel/0b0011100000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6454480
-            },
-            "model": "item/shovels/diamond_shovel/0b1000110000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451920
-            },
-            "model": "item/shovels/diamond_shovel/0b0011110000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6452432
-            },
-            "model": "item/shovels/diamond_shovel/0b0100110000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6456400
-            },
-            "model": "item/shovels/diamond_shovel/0b1100100000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450512
-            },
-            "model": "item/shovels/diamond_shovel/0b0001000000000"
+            "model": "item/shovels/diamond_shovel/0b1010100000000"
         },
         {
             "predicate": {
                 "custom_model_data": 6455504
             },
             "model": "item/shovels/diamond_shovel/0b1010110000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6451408
-            },
-            "model": "item/shovels/diamond_shovel/0b0010110000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450128
-            },
-            "model": "item/shovels/diamond_shovel/0b0000010000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6455376
-            },
-            "model": "item/shovels/diamond_shovel/0b1010100000000"
         },
         {
             "predicate": {
@@ -192,57 +228,15 @@
         },
         {
             "predicate": {
-                "custom_model_data": 6454608
+                "custom_model_data": 6455888
             },
-            "model": "item/shovels/diamond_shovel/0b1001000000000"
+            "model": "item/shovels/diamond_shovel/0b1011100000000"
         },
         {
             "predicate": {
-                "custom_model_data": 6454992
+                "custom_model_data": 6456016
             },
-            "model": "item/shovels/diamond_shovel/0b1001110000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6456272
-            },
-            "model": "item/shovels/diamond_shovel/0b1100010000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453456
-            },
-            "model": "item/shovels/diamond_shovel/0b0110110000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450768
-            },
-            "model": "item/shovels/diamond_shovel/0b0001100000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6454352
-            },
-            "model": "item/shovels/diamond_shovel/0b1000100000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6454736
-            },
-            "model": "item/shovels/diamond_shovel/0b1001010000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6450256
-            },
-            "model": "item/shovels/diamond_shovel/0b0000100000000"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6453072
-            },
-            "model": "item/shovels/diamond_shovel/0b0110000000000"
+            "model": "item/shovels/diamond_shovel/0b1011110000000"
         },
         {
             "predicate": {
@@ -252,39 +246,45 @@
         },
         {
             "predicate": {
-                "custom_model_data": 6451024
+                "custom_model_data": 6456272
             },
-            "model": "item/shovels/diamond_shovel/0b0010000000000"
+            "model": "item/shovels/diamond_shovel/0b1100010000000"
         },
         {
             "predicate": {
-                "custom_model_data": 6454864
+                "custom_model_data": 6456400
             },
-            "model": "item/shovels/diamond_shovel/0b1001100000000"
+            "model": "item/shovels/diamond_shovel/0b1100100000000"
         },
         {
             "predicate": {
-                "custom_model_data": 6453200
+                "custom_model_data": 6456528
             },
-            "model": "item/shovels/diamond_shovel/0b0110010000000"
+            "model": "item/shovels/diamond_shovel/0b1100110000000"
         },
         {
             "predicate": {
-                "custom_model_data": 6450896
+                "custom_model_data": 6457168
             },
-            "model": "item/shovels/diamond_shovel/0b0001110000000"
+            "model": "item/shovels/diamond_shovel/0b1110000000000"
         },
         {
             "predicate": {
-                "custom_model_data": 6453328
+                "custom_model_data": 6457296
             },
-            "model": "item/shovels/diamond_shovel/0b0110100000000"
+            "model": "item/shovels/diamond_shovel/0b1110010000000"
         },
         {
             "predicate": {
-                "custom_model_data": 6452176
+                "custom_model_data": 6457424
             },
-            "model": "item/shovels/diamond_shovel/0b0100010000000"
+            "model": "item/shovels/diamond_shovel/0b1110100000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6457552
+            },
+            "model": "item/shovels/diamond_shovel/0b1110110000000"
         }
     ]
 }
