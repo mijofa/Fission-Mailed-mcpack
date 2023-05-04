@@ -1,12 +1,10 @@
-RESOURCES := $(shell find assets/minecraft/textures/ assets/minecraft/models/ -type f -not -name '.*' -not -name '*~' -print)
-Fission-Mailed-mcpack.zip: pack.mcmeta pack.png README.rst $(RESOURCES)
+Fission-Mailed-mcpack.zip: pack.mcmeta pack.png README.rst assets/minecraft/textures/ assets/minecraft/models/
 	rm $@ || true
-	zip -r $@ $^
+	zip -x @.gitignore -r $@ $^
 
-LOOT_TABLES := $(shell find data/ -type f -not -name '.*' -not -name '*~' -print)
-Fission-Mailed-datapack.zip: pack.mcmeta pack.png README.rst $(LOOT_TABLES)
+Fission-Mailed-datapack.zip: pack.mcmeta pack.png README.rst data/
 	rm $@ || true
-	zip -r $@ $^
+	zip -x @.gitignore -r $@ $^
 
 Fission-Mailed-mcpack.mcpack: Fission-Mailed-mcpack.zip
 	echo "Not Implemented yet, go investigate https://github.com/Kas-tle/java2bedrock.sh" ; false
@@ -14,4 +12,4 @@ Fission-Mailed-mcpack.mcpack: Fission-Mailed-mcpack.zip
 all: Fission-Mailed-mcpack.zip Fission-Mailed-datapack.zip
 
 clean:
-	rm Fission-Mailed-mcpack.zip
+	rm Fission-Mailed-mcpack.zip Fission-Mailed-datapack.zip
