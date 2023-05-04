@@ -1,0 +1,4 @@
+Move the CIT json files into position for custom-model-data with bitmasks (this is based on info in the file path **not** the .properties file)::
+
+    cd assets/minecraft/optifine/cit/enchs
+    find * -iname '*.json' -not -iname 'pumpkin*' -not -iname 'crossbow*' -not -iname 'shield*' -not -iname 'fishing*' -not -iname 'trident*' | while read optifinepath ; do item_name="${optifinepath##*/}" enchants="${optifinepath#*/}" ; item_name="${item_name%.*}" enchants=( $(sed 's/^.\///;s/[0-9]//g;s/\(\/[xz]\)\?\/[^\/]*.json//g;s/\// /g;s/vanising/vanishing/' <<< "$enchants") ) ; newpath="../../../models/item/${optifinepath%%/*}/$(python3 ~/vcs/Fission-Mailed-mcpack/enchants_to_bitmask.py "$item_name" "${enchants[@]}").json" ; mkdir -p "${newpath%/*}" ; git mv "$optifinepath" "$newpath" ; echo git rm --ignore-unmatch "${optifinepath%.json}.properties" ; done
