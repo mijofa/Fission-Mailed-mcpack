@@ -39,6 +39,9 @@ execute if entity @s[nbt={Item:{id:"minecraft:netherite_hoe"}}] run function mij
 
 execute if entity @s[nbt={Item:{id:"minecraft:bow"}}] run function mijofa:smithing_fancy/bow
 
+execute if entity @s[nbt={Item:{id:"minecraft:shears"}}] run function mijofa:smithing_fancy/shearws
+execute if entity @s[nbt={Item:{id:"minecraft:carrot_on_a_stick"}}] run function mijofa:smithing_fancy/carrot_on_a_stick
+execute if entity @s[nbt={Item:{id:"minecraft:warped_fungus_on_a_stick"}}] run function mijofa:smithing_fancy/warped_fungus_on_a_stick
 
 execute store result entity @s Item.tag.CustomModelData int 1.0 run scoreboard players get @s FancyCustomModelData
 # Show some particles on it to indicate we've actually done something

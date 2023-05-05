@@ -1,0 +1,50 @@
+{
+    "parent": "minecraft:item/rods/rod",
+    "textures": {
+        "base": "item/rods/carrot_on_a_stick"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 6451024
+            },
+            "model": "item/rods/carrot_on_a_stick/0b0010000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452048
+            },
+            "model": "item/rods/carrot_on_a_stick/0b0100000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453072
+            },
+            "model": "item/rods/carrot_on_a_stick/0b0110000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454096
+            },
+            "model": "item/rods/carrot_on_a_stick/0b1000000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6455120
+            },
+            "model": "item/rods/carrot_on_a_stick/0b1010000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6456144
+            },
+            "model": "item/rods/carrot_on_a_stick/0b1100000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6457168
+            },
+            "model": "item/rods/carrot_on_a_stick/0b1110000000000"
+        }
+    ]
+}

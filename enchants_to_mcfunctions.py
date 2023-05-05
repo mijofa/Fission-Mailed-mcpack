@@ -58,7 +58,23 @@ item_enchant_bitmasks = {
         "punch": 0b0000100000000,
         "unbreaking": 0b0000010000000,
         "vanishing_curse": 0b0000001000000,
-    }
+    },
+    "carrot_on_a_stick": {
+        "mending": 0b1000000000000,
+        "unbreaking": 0b0100000000000,
+        "vanishing_curse": 0b0010000000000,
+    },
+    "warped_fungus_on_a_stick": {
+        "mending": 0b1000000000000,
+        "unbreaking": 0b0100000000000,
+        "vanishing_curse": 0b0010000000000,
+    },
+    "shears": {
+        "efficiency": 0b1000000000000,
+        "mending": 0b0100000000000,
+        "unbreaking": 0b0010000000000,
+        "vanishing_curse": 0b0001000000000,
+    },
 }
 
 functions_path = pathlib.Path('data/mijofa/functions/smithing_fancy/')

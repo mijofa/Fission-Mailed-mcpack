@@ -1,0 +1,98 @@
+{
+    "parent": "minecraft:item/misc/shears",
+    "textures": {
+        "base": "item/shears"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 6450512
+            },
+            "model": "item/shears/shears/0b0001000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451024
+            },
+            "model": "item/shears/shears/0b0010000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6451536
+            },
+            "model": "item/shears/shears/0b0011000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452048
+            },
+            "model": "item/shears/shears/0b0100000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6452560
+            },
+            "model": "item/shears/shears/0b0101000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453072
+            },
+            "model": "item/shears/shears/0b0110000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6453584
+            },
+            "model": "item/shears/shears/0b0111000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454096
+            },
+            "model": "item/shears/shears/0b1000000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6454608
+            },
+            "model": "item/shears/shears/0b1001000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6455120
+            },
+            "model": "item/shears/shears/0b1010000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6455632
+            },
+            "model": "item/shears/shears/0b1011000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6456144
+            },
+            "model": "item/shears/shears/0b1100000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6456656
+            },
+            "model": "item/shears/shears/0b1101000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6457168
+            },
+            "model": "item/shears/shears/0b1110000000000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6457680
+            },
+            "model": "item/shears/shears/0b1111000000000"
+        }
+    ]
+}

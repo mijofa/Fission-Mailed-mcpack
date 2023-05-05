@@ -19,6 +19,25 @@ Creating the item files themselves (Python used because I couldn't do the binary
         with pathlib.Path(f'./{material}_{item}.json').open('w') as f:
           json.dump(data, f, indent=4)
 
+Same again, for rods::
+
+    for item in ['rods/carrot_on_a_stick','rods/warped_fungus_on_a_stick']:
+      data = {"parent": f"minecraft:item/rods/rod","textures":{"base":f"item/{item}"}}
+      data['overrides'] = [{"predicate": {"custom_model_data": 6450000 + int(p.name.split('.')[0], 2)}, "model": 'item/'+str(p)[:-5]} for p in pathlib.Path('.').glob(f'{item}/0b*.json')]
+      data['overrides'].sort(key=sort_key)
+      with pathlib.Path(f'./{item.split("/")[1]}.json').open('w') as f:
+        json.dump(data, f, indent=4)
+
+Same again, for shears::
+
+    data = {"parent": f"minecraft:item/misc/shears","textures":{"base":f"item/shears"}}
+    data['overrides'] = [{"predicate": {"custom_model_data": 6450000 + int(p.name.split('.')[0], 2)}, "model": 'item/'+str(p)[:-5]} for p in pathlib.Path('.').glob(f'shears/shears/0b*.json')]
+    data['overrides'].sort(key=sort_key)
+    with pathlib.Path(f'./shears.json').open('w') as f:
+      json.dump(data, f, indent=4)
+
+# FIXME: Same again for flint_and_steel
+
 Same again, but specifically for bows, since their animation is a bit more complex::
 
     data = {"parent": "minecraft:item/bows/bow","textures": {"base": "item/bow/base"},
