@@ -22,7 +22,7 @@ Creating the item files themselves (Python used because I couldn't do the binary
 Same again, for rods::
 
     for item in ['rods/carrot_on_a_stick','rods/warped_fungus_on_a_stick']:
-      data = {"parent": f"minecraft:item/rods/rod","textures":{"base":f"item/{item}"}}
+      data = {"parent": f"minecraft:item/rods/rod","textures":{"base":f"bait": "item/rods/{item.split('/')[1][:-11]}"}}
       data['overrides'] = [{"predicate": {"custom_model_data": 6450000 + int(p.name.split('.')[0], 2)}, "model": 'item/'+str(p)[:-5]} for p in pathlib.Path('.').glob(f'{item}/0b*.json')]
       data['overrides'].sort(key=sort_key)
       with pathlib.Path(f'./{item.split("/")[1]}.json').open('w') as f:
