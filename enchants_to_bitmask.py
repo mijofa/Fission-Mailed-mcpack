@@ -233,7 +233,6 @@ item_enchant_bitmasks = {
         "unbreaking": 0b0100000000000,
         "vanishing_curse": 0b0010000000000,
     },
-    # FIXME: Need to make the override predicate section for this pull animation properly
     "bow": {
         "flame": 0b1000000000000,
         "infinity": 0b0100000000000,
