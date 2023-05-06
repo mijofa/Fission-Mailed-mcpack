@@ -75,6 +75,11 @@ item_enchant_bitmasks = {
         "unbreaking": 0b0010000000000,
         "vanishing_curse": 0b0001000000000,
     },
+    "flint_and_steel": {
+        "mending": 0b1000000000000,
+        "unbreaking": 0b0100000000000,
+        "vanishing_curse": 0b0010000000000,
+    },
 }
 
 functions_path = pathlib.Path('data/mijofa/functions/smithing_fancy/')

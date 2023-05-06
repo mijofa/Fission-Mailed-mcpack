@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/flint_and_steel/0b0100000000000"
+  }
+}

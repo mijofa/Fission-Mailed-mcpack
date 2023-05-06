@@ -3,6 +3,13 @@ Move the CIT json files into position for custom-model-data with bitmasks (this 
     cd assets/minecraft/optifine/cit/enchs
     find * -iname '*.json' -not -iname 'pumpkin*' -not -iname 'crossbow*' -not -iname 'shield*' -not -iname 'fishing*' -not -iname 'trident*' | while read optifinepath ; do item_name="${optifinepath##*/}" enchants="${optifinepath#*/}" ; item_name="${item_name%.*}" enchants=( $(sed 's/^.\///;s/[0-9]//g;s/\(\/[xz]\)\?\/[^\/]*.json//g;s/\// /g;s/vanising/vanishing/' <<< "$enchants") ) ; newpath="../../../models/item/${optifinepath%%/*}/$(python3 ~/vcs/Fission-Mailed-mcpack/enchants_to_bitmask.py "$item_name" "${enchants[@]}").json" ; mkdir -p "${newpath%/*}" ; git mv "$optifinepath" "$newpath" ; echo git rm --ignore-unmatch "${optifinepath%.json}.properties" ; done
 
+Flint and steel is special because it doesn't do layer masks at all::
+
+    # FIXME: mcmeta files are named wrong and don't have the .png included
+    find . -iname 'flint_and_steel.png' -or -iname 'flint_and_steel.png.mcmeta'  | while read optifinepath ; do enchants="${optifinepath#*/}" ; enchants=( $(sed 's/^.\///;s/[0-9]//g;s/\(\/[xz]\)\?\/[^\/]*.png\(.mcmeta\)\?//g;s/\// /g;s/vanising/vanishing/' <<< "$enchants") ) ; newpath="../../../textures/item/$(python3 ~/vcs/Fission-Mailed-mcpack/enchants_to_bitmask.py "${enchants[@]}").${optifinepath##*.}" ; mkdir -p "${newpath%/*}" ; git mv "$optifinepath" "$newpath" ; git rm --ignore-unmatch "${optifinepath%.png}.properties" ; done
+    cd ../../../models/items
+    for f in ../../textures/item/flint_and_steel/0b*.png ; do texture="${f#*/textures/}" ; texture="${texture%.png}" ; printf '{"parent":"minecraft:item/generated","textures":{"layer0":"%s"}}' "$texture" | jq . >"flint_and_steel/${texture##*/}.json" ; done
+
 Python sort key function for the below::
 
      def sort_key(i):
@@ -62,3 +69,10 @@ Same again, but specifically for bows, since their animation is a bit more compl
     with pathlib.Path(f'./bow.json').open('w') as f:
       json.dump(data, f, indent=4)
 
+Same again for flint and steel, which is extra special because it doesn't use layer masks at all::
+
+    data = {"parent": f"minecraft:item/generated","textures":{"layer0": "minecraft:item/flint_and_steel"}}
+    data['overrides'] = [{"predicate": {"custom_model_data": 6450000 + int(p.name.split('.')[0], 2)}, "model": 'item/'+str(p)[:-5]} for p in pathlib.Path('.').glob(f'flint_and_steel/0b*.json')]
+    data['overrides'].sort(key=sort_key)
+    with pathlib.Path(f'./flint_and_steel.json').open('w') as f:
+      json.dump(data, f, indent=4)
