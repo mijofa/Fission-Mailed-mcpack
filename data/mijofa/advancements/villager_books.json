@@ -1,0 +1,22 @@
+{
+    "parent": "custom_roleplay_data:custom_roleplay_data",
+    "display": {
+        "icon": {
+            "item": "minecraft:enchanted_book",
+            "nbt": "{CustomModelData:6453004}"
+        },
+
+        "title": "Trading Books",
+        "description": [
+            "",
+            {"color":"gold","text":"Identify enchanted books with visually identifiable enchantments.\n"},
+            {"color":"gold","text":"Villagers will trade enchanted books with more visually identifiable textures.\n"},
+            {"color":"gold","text":"(might take up to a minute to apply the texture after their trade appears)\n"},
+            {"text":"\n"},
+            {"color":"green","text":"Datapack by: "},{"color":"red","text":"m"},{"color":"orange","text":"i"},{"color":"yellow","text":"j"},{"color":"green","text":"o"},{"color":"blue","text":"f"},{"color":"violet","text":"a\n"},
+            {"color":"green","text":"Textures by: "},{"color":"aqua","text":"CiscuLog\n"}
+        ],
+
+        "show_toast":false,"announce_to_chat":false},
+    "criteria":{"tick":{"trigger":"minecraft:tick"}}
+}
