@@ -1,4 +1,14 @@
-COMPATIBLE GAME VERSIONS: 1.21.5
+COMPATIBLE GAME VERSIONS: 1.21.5 to 1.21.6
+
+Changes in VisualEnchantments 5.0.2 (29/05/2025)
++ Added 1.21.6 compatibility
++ Added Enchanted Shields which can display the banner when enchanted
++ Added Visual Enchantments to handheld tridents
++ Added Unbreaking Vanishing book
++ Changed Looting clover texture on both swords and enchanting books
++ Changed Vanishing enchanted books to have the regular book color palette
++ Fixed Wooden Hoes with vanishing were missing models
++ Fixed Wooden Pickaxes with vanishing were showing as wooden shovels
 
 Changes in VisualEnchantments 5.0.1 (10/05/2025)
 + Added Swift Sneak on Leggings

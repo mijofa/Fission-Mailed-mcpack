@@ -1,5 +1,5 @@
 {
-    "parent": "item/shield/template",
+    "parent": "item/shield/template_blocking",
 	"textures": {
 		"0": "item/blank",
 		"2": "item/shield/mending"

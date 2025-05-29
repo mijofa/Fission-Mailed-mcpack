@@ -179,6 +179,6 @@
                 "on_false": {"type": "empty"}
             }
         ]
-    }
-    
+    },
+    "oversized_in_gui": true
 }

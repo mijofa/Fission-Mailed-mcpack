@@ -91,25 +91,188 @@
           "when": [
             "gui",
             "ground",
-            "fixed"
+            "fixed",
+            "head"
           ]
         }
       ],
       "fallback": {
         "type": "minecraft:condition",
         "on_false": {
-          "type": "minecraft:special",
-          "base": "minecraft:item/trident_in_hand",
-          "model": {
-            "type": "minecraft:trident"
-          }
+          "type": "composite",
+          "models": [
+            {
+              "type": "condition",
+              "property": "component",
+              "predicate": "enchantments",
+              "value": [{"enchantments": "unbreaking"}],
+              "on_false": 
+              {
+                "type": "condition",
+                "property": "component",
+                "predicate": "enchantments",
+                "value": [{"enchantments": "channeling"}],
+                "on_false": {"type": "model","model": "item/trident/held/trident_pole"},
+                "on_true": {"type": "model","model": "item/trident/held/channeling_pole"}
+              },
+              "on_true": {"type": "model","model": "item/trident/held/unbreaking_pole"}
+            },
+            {
+              "type": "condition",
+              "property": "component",
+              "predicate": "enchantments",
+              "value": [{"enchantments": "riptide"}],
+              "on_false": {"type": "empty"},
+              "on_true": {
+                "type": "condition",
+                "property": "component",
+                "predicate": "enchantments",
+                "value": [{"enchantments": "unbreaking"}],
+                "on_false": {"type": "model","model": "item/trident/held/riptide"},
+                "on_true": {"type": "model","model": "item/trident/held/riptide_unbreaking"}
+              }
+            },
+            {
+              "type": "condition",
+              "property": "component",
+              "predicate": "enchantments",
+              "value": [{"enchantments": "impaling"}],
+              "on_true": {
+                "type": "condition",
+                "property": "component",
+                "predicate": "enchantments",
+                "value": [{"enchantments": "channeling"}],
+                "on_true": {"type": "model","model": "item/trident/held/impaling_channeling"},
+                "on_false": {
+                  "type": "condition",
+                  "property": "component",
+                  "predicate": "enchantments",
+                  "value": [{"enchantments": "unbreaking"}],
+                  "on_true": {"type": "model","model": "item/trident/held/impaling_unbreaking"},
+                  "on_false": {"type": "model","model": "item/trident/held/impaling"}
+                }
+              },
+              "on_false": {
+                "type": "condition",
+                "property": "component",
+                "predicate": "enchantments",
+                "value": [{"enchantments": "channeling"}],
+                "on_true": {"type": "model","model": "item/trident/held/channeling_head"},
+                "on_false": {
+                  "type": "condition",
+                  "property": "component",
+                  "predicate": "enchantments",
+                  "value": [{"enchantments": "unbreaking"}],
+                  "on_true": {"type": "model","model": "item/trident/held/unbreaking_head"},
+                  "on_false": {"type": "model","model": "item/trident/held/trident_head"}
+                }
+              }
+            },
+            {
+              "type": "condition",
+              "property": "component",
+              "predicate": "enchantments",
+              "value": [{"enchantments": "loyalty"}],
+              "on_true": {"type": "model","model": "item/trident/held/loyalty"},
+              "on_false": {"type": "empty"}
+            },
+            {
+              "type": "condition",
+              "property": "component",
+              "predicate": "enchantments",
+              "value": [{"enchantments": "mending"}],
+              "on_true": {"type": "model","model": "item/trident/held/mending"},
+              "on_false": {"type": "empty"}
+            }
+          ]
         },
         "on_true": {
-          "type": "minecraft:special",
-          "base": "minecraft:item/trident_throwing",
-          "model": {
-            "type": "minecraft:trident"
-          }
+          "type": "composite",
+          "models": [
+            {
+              "type": "condition",
+              "property": "component",
+              "predicate": "enchantments",
+              "value": [{"enchantments": "unbreaking"}],
+              "on_false": 
+              {
+                "type": "condition",
+                "property": "component",
+                "predicate": "enchantments",
+                "value": [{"enchantments": "channeling"}],
+                "on_false": {"type": "model","model": "item/trident/held_throwing/trident_pole"},
+                "on_true": {"type": "model","model": "item/trident/held_throwing/channeling_pole"}
+              },
+              "on_true": {"type": "model","model": "item/trident/held_throwing/unbreaking_pole"}
+            },
+            {
+              "type": "condition",
+              "property": "component",
+              "predicate": "enchantments",
+              "value": [{"enchantments": "riptide"}],
+              "on_false": {"type": "empty"},
+              "on_true": {
+                "type": "condition",
+                "property": "component",
+                "predicate": "enchantments",
+                "value": [{"enchantments": "unbreaking"}],
+                "on_false": {"type": "model","model": "item/trident/held_throwing/riptide"},
+                "on_true": {"type": "model","model": "item/trident/held_throwing/riptide_unbreaking"}
+              }
+            },
+            {
+              "type": "condition",
+              "property": "component",
+              "predicate": "enchantments",
+              "value": [{"enchantments": "impaling"}],
+              "on_true": {
+                "type": "condition",
+                "property": "component",
+                "predicate": "enchantments",
+                "value": [{"enchantments": "channeling"}],
+                "on_true": {"type": "model","model": "item/trident/held_throwing/impaling_channeling"},
+                "on_false": {
+                  "type": "condition",
+                  "property": "component",
+                  "predicate": "enchantments",
+                  "value": [{"enchantments": "unbreaking"}],
+                  "on_true": {"type": "model","model": "item/trident/held_throwing/impaling_unbreaking"},
+                  "on_false": {"type": "model","model": "item/trident/held_throwing/impaling"}
+                }
+              },
+              "on_false": {
+                "type": "condition",
+                "property": "component",
+                "predicate": "enchantments",
+                "value": [{"enchantments": "channeling"}],
+                "on_true": {"type": "model","model": "item/trident/held_throwing/channeling_head"},
+                "on_false": {
+                  "type": "condition",
+                  "property": "component",
+                  "predicate": "enchantments",
+                  "value": [{"enchantments": "unbreaking"}],
+                  "on_true": {"type": "model","model": "item/trident/held_throwing/unbreaking_head"},
+                  "on_false": {"type": "model","model": "item/trident/held_throwing/trident_head"}
+                }
+              }
+            },
+            {
+              "type": "condition",
+              "property": "component",
+              "predicate": "enchantments",
+              "value": [{"enchantments": "loyalty"}],
+              "on_true": {"type": "model","model": "item/trident/held_throwing/loyalty"},
+              "on_false": {"type": "empty"}
+            },
+            {
+              "type": "condition",
+              "property": "component",
+              "predicate": "enchantments",
+              "value": [{"enchantments": "mending"}],
+              "on_true": {"type": "model","model": "item/trident/held_throwing/mending"},
+              "on_false": {"type": "empty"}
+            }
+          ]
         },
         "property": "minecraft:using_item"
       },
