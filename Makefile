@@ -1,4 +1,4 @@
-Fission-Mailed-mcpack.zip: pack.mcmeta pack.png README.rst assets/minecraft/textures/ assets/minecraft/models/
+Fission-Mailed-mcpack.zip: pack.mcmeta pack.png README.rst assets/
 	rm $@ || true
 	zip -x @.gitignore -r $@ $^
 
