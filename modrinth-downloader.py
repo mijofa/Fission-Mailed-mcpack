@@ -91,11 +91,11 @@ with tempfile.NamedTemporaryFile(dir=os.curdir,
             print(dest, filespec['filename'], sep='/')
             # FIXME: Confirm checksums, we have them in the filespec already.
             resp: urllib.request.http.client.HTTPResponse = urllib.request.urlopen(filespec['url'])
-            file_data = resp.read()
+            file_data: bytes = resp.read()
             assert hashlib.sha1(file_data).hexdigest() == filespec['hashes']['sha1'],   "sha1sum mismatch!"
             assert hashlib.sha512(file_data).hexdigest() == filespec['hashes']['sha512'], "sha512sum mismatch!"
             zf.writestr(zinfo_or_arcname=f"{dest}/{filespec['filename']}",
-                        data=resp.read())
+                        data=file_data)
 
     # Hard link to unhidden destination path before Python deletes the temp file
     os.link(output_file.name, args.output_file)
