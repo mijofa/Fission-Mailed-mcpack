@@ -59,7 +59,7 @@ with urllib.request.urlopen("https://mc.voodoobeard.com/") as voodoobeard_resp:
     voodoobeard_data = bs4.BeautifulSoup(voodoobeard_resp.read().decode(), "html.parser")
     all_packs = {pack.select_one('img[id]').get('id'): pack for pack in voodoobeard_data.select('div.card:has(img[id])')}
     for required_pack_id in args.pack_ids:
-        assert required_pack_id in all_packs
+        assert required_pack_id in all_packs, f"Missing pack {required_pack_id}"
         pack_advert_url = all_packs[required_pack_id].select_one('a:has(i.fa-download)').get('href')
         assert urllib.parse.urlparse(pack_advert_url).netloc == "adfoc.us"
         pack_advert_request = urllib.request.Request(
@@ -69,9 +69,14 @@ with urllib.request.urlopen("https://mc.voodoobeard.com/") as voodoobeard_resp:
                      'Accept': 'text/html',
                      'Accept-Language': 'en-AU,en'})
         with urllib.request.urlopen(pack_advert_request) as pack_advert_response:
-            required_pack_urls[required_pack_id], = re.findall("""click_url *= *["'](.*)["'] *;""",
-                                                               # FIXME: pass the encoding header to decode?
-                                                               pack_advert_response.read().decode())
+            try:
+                required_pack_urls[required_pack_id], = re.findall("""click_url *= *["'](.*)["'] *;""",
+                                                                   # FIXME: pass the encoding header to decode?
+                                                                   pack_advert_response.read().decode())
+            except:
+                print("Missing url for", required_pack_id)
+                raise
+
 
 print("Generating zip file...")
 with tempfile.NamedTemporaryFile(dir=os.curdir,
