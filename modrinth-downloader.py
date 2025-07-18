@@ -28,6 +28,7 @@ argparser.add_argument("project_ids",
                            'sleep-warp-updated',
                            # Efficiency optimisation
                            'clumps',
+                           'distanthorizons',
                            # Discord integration
                            'dcintegration',
                        ],
